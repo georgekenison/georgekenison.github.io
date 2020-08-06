@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>G. Kenison | George Kenison</title>
+    <link>https://georgekenison.github.io/author/g.-kenison/</link>
+      <atom:link href="https://georgekenison.github.io/author/g.-kenison/index.xml" rel="self" type="application/rss+xml" />
+    <description>G. Kenison</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 22 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://georgekenison.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>G. Kenison</title>
+      <link>https://georgekenison.github.io/author/g.-kenison/</link>
+    </image>
+    
+    <item>
+      <title>On Positivity and Minimality for Second Order Holonomic Sequences</title>
+      <link>https://georgekenison.github.io/publication/kenison-2020-positivity/</link>
+      <pubDate>Wed, 22 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://georgekenison.github.io/publication/kenison-2020-positivity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Skolem Problem and prime powers</title>
+      <link>https://georgekenison.github.io/publication/kenison-2020-skolem/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://georgekenison.github.io/publication/kenison-2020-skolem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistics in conjugacy classes in free groups</title>
+      <link>https://georgekenison.github.io/publication/kenison-2019-statistics/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://georgekenison.github.io/publication/kenison-2019-statistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Orbit counting in conjugacy classes for free groups acting on trees</title>
+      <link>https://georgekenison.github.io/publication/kenison-2015-orbit/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://georgekenison.github.io/publication/kenison-2015-orbit/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
