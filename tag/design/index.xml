@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>design | George Kenison</title>
+    <link>https://georgekenison.github.io/tag/design/</link>
+      <atom:link href="https://georgekenison.github.io/tag/design/index.xml" rel="self" type="application/rss+xml" />
+    <description>design</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://georgekenison.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>design</title>
+      <link>https://georgekenison.github.io/tag/design/</link>
+    </image>
+    
+    <item>
+      <title>Principles of design and learning mathematics</title>
+      <link>https://georgekenison.github.io/post/designeveryday/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://georgekenison.github.io/post/designeveryday/</guid>
+      <description>&lt;p&gt;In his book, The Design of Everyday Things, Norman argues that a skilled practitioner or expert minimises the cognitive burden of performing tasks by automating subroutines and processes. 
+Thus the expert need only engage consciously with the minutiae and subtleties of the task at hand.
+The author includes the following insight by philosopher and mathematician Alfred North Whitehead:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;It is a profoundly erroneous truism, repeated by all copy-books and by eminent people when they are making speeches, that we should cultivate the habit of thinking of what we are doing. The precise opposite is the case. Civilization advances by extending the number of important operations which we can perform without thinking about them.&lt;/p&gt;
+&lt;p&gt;(Alfred North Whitehead, 1911)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;It is interesting to link Whitehead&amp;rsquo;s observation to schools of thought in mathematics education; that is, the academic study of didactical practice and learning outcomes in mathematics.&lt;/p&gt;
+&lt;p&gt;However, the topic of effective learning in mathematics appears to be of little concern to many lecturers. Indeed, Freudenthal observes that complete mastery of a topic separates some teachers from their learners:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I have observed, not only with other people but also with myself. . . that sources of
+insight can be clogged by automatisms. One finally masters an activity so perfectly
+that the question of how and why [students have difficultly with these procedures]
+is not asked any more, cannot be asked any more, and is not even understood any
+more as a meaningful and relevant question.&lt;/p&gt;
+&lt;p&gt;(Freudenthal)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;There are many theories on how learners internalise and assimilate new mathematical concepts.
+We may relate Freudenthal&amp;rsquo;s automatisms to encapsulation, a term frequently used to indicate
+cognitive development. There are several theories in the literature that frame encapsulation
+from a constructivist epistemology of learning, these include: Dubinsky&amp;rsquo;s reactive abstraction for advanced mathematical thinking; APOS theory (Action, Process, Object, Schema) in Cottrill et al.; Sfard&amp;rsquo;s dual theory with its focus on reification; and Gray and Tall&amp;rsquo;s
+procepts (symbols may act as both processes and concepts in learners&#39; schemata).
+There are significant differences between these theories. For instance APOS theory and Sfard&amp;rsquo;s
+theory suggest that cognitive development of a learner&amp;rsquo;s schema is somewhat linear: Cottrill et
+al. believe learners encounter the stages Action, Process, Object, Schema in order; whilst Sfard
+identifies three separate stages interiorization, condensation and reification.&lt;/p&gt;
+&lt;p&gt;It is interesting to question further the implications of good design (importing good practice from engineering and production) on teaching in higher education.  The interface blending research, teaching, and learning has much to offer.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

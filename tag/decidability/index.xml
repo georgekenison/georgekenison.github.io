@@ -5,7 +5,7 @@
     <link>https://georgekenison.github.io/tag/decidability/</link>
       <atom:link href="https://georgekenison.github.io/tag/decidability/index.xml" rel="self" type="application/rss+xml" />
     <description>decidability</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://georgekenison.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>decidability</title>
@@ -26,7 +26,7 @@
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
       <guid>https://georgekenison.github.io/post/fourcycle/</guid>
       <description>&lt;h3 id=&#34;the-markov-reachability-problem&#34;&gt;The Markov Reachability Problem&lt;/h3&gt;
-&lt;p&gt;We are interested in decision problems for Markov chains and in particular, chiefly the &lt;em&gt;Markov Reachability Problem&lt;/em&gt;. Given a stochastic matrix $K\in\mathbb{Q}^{d\times d}$ and positive $r\in\mathbb{Q}$, determine whether there exist an $n\in\mathbb{N}$ such that $K^n(1,2)=r$.
+&lt;p&gt;We are interested in decision problems for Markov chains and in particular, the &lt;em&gt;Markov Reachability Problem&lt;/em&gt;. Given a stochastic matrix $K\in\mathbb{Q}^{d\times d}$ and positive $r\in\mathbb{Q}$, determine whether there exist an $n\in\mathbb{N}$ such that $K^n(1,2)=r$.
 That is to say, is does there exist an $n\in\mathbb{N}$ such that the probability of travelling from state $1$ to state $2$ is exactly $r$.
 The decidability of the Markov Reachability Problem is currently open.&lt;/p&gt;
 &lt;p&gt;We note the Markov Reachability Problem  is  more difficult than the process of determining whether there is a path of length $n$ originating at state $1$ and terminating at state $2$ with associated probability $r$.&lt;/p&gt;
