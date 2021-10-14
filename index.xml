@@ -86,7 +86,7 @@ identifies three separate stages interiorization, condensation and reification.
       <guid>https://georgekenison.github.io/post/fourcycle/</guid>
       <description>&lt;h3 id=&#34;the-markov-reachability-problem&#34;&gt;The Markov Reachability Problem&lt;/h3&gt;
 &lt;p&gt;We are interested in decision problems for Markov chains and in particular, the &lt;em&gt;Markov Reachability Problem&lt;/em&gt;. Given a stochastic matrix $K\in\mathbb{Q}^{d\times d}$ and positive $r\in\mathbb{Q}$, determine whether there exist an $n\in\mathbb{N}$ such that $K^n(1,2)=r$.
-That is to say, is does there exist an $n\in\mathbb{N}$ such that the probability of travelling from state $1$ to state $2$ is exactly $r$.
+That is to say, does there exist an $n\in\mathbb{N}$ such that the probability of travelling from state $1$ to state $2$ is exactly $r$.
 The decidability of the Markov Reachability Problem is currently open.&lt;/p&gt;
 &lt;p&gt;We note the Markov Reachability Problem  is  more difficult than the process of determining whether there is a path of length $n$ originating at state $1$ and terminating at state $2$ with associated probability $r$.&lt;/p&gt;
 &lt;h3 id=&#34;cycle-graphs&#34;&gt;Cycle graphs&lt;/h3&gt;
