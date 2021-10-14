@@ -5,12 +5,24 @@
     <link>https://georgekenison.github.io/tag/holonomic-sequences/</link>
       <atom:link href="https://georgekenison.github.io/tag/holonomic-sequences/index.xml" rel="self" type="application/rss+xml" />
     <description>holonomic sequences</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 22 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://georgekenison.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>holonomic sequences</title>
       <link>https://georgekenison.github.io/tag/holonomic-sequences/</link>
     </image>
+    
+    <item>
+      <title>On minimality and positivity for second-order holonomic sequences</title>
+      <link>https://georgekenison.github.io/post/mfcstalk/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://georgekenison.github.io/post/mfcstalk/</guid>
+      <description>&lt;p&gt;Slides from my talk on minimality and positivity for second-order holonomic sequences.  Presentations given at MFCS 2021 (Tallinn), Joint Forsyte (TU Wien) and Institute of Science &amp;amp; Technology Seminar, and Open University Dynamical Systems Seminar.&lt;/p&gt;
+&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+&lt;p&gt;An infinite sequence $&amp;lt;u_n&amp;gt;$ of real numbers is holonomic if it  satisfies a linear recurrence relation with polynomial coefficients.  Such a sequence is positive if each $u_n \geq 0$, and minimal if, given  any other linearly independent sequence $&amp;lt;v_n&amp;gt;$ satisfying the same  recurrence relation, the ratio $u_n/v_n$ converges to $0$ as $n$ tends to  infinity.
+In recent work, the speaker and collaborators establish a  Turing reduction of the problem of deciding positivity of second-order  holonomic sequences to that of deciding minimality of such sequences.  More specifically, we give a procedure for determining positivity of  second-order holonomic sequences that terminates in all but an  exceptional number of cases, and we show that in these exceptional cases positivity can be determined using an oracle for deciding minimality.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>On Inequality Decision Problems for Low-Order Holonomic Sequences</title>
