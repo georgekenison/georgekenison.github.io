@@ -17,11 +17,10 @@
       <link>https://georgekenison.github.io/post/mfcstalk/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
       <guid>https://georgekenison.github.io/post/mfcstalk/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://georgekenison.github.io/files/202108MFCS.pdf&#34; target=&#34;_blank&#34;&gt;Slides&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Talk on minimality and positivity for second-order holonomic sequences.  Variations given at MFCS 2021 (Tallinn),  the joint Forsyte (TU Wien) and Institute of Science &amp;amp; Technology Seminar, and the Open University Dynamical Systems Seminar.&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;https://georgekenison.github.io/files/202108MFCS.pdf&#34; target=&#34;_blank&#34;&gt;Slides&lt;/a&gt; on minimality and positivity for second-order holonomic sequences.  Variations given at Mathematical Foundations of Computer Science 2021 (MFCS, Tallinn),  the joint Forsyte (TU Wien) and Institute of Science &amp;amp; Technology Seminar, and the Open University Dynamical Systems Seminar.&lt;/p&gt;
 &lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
-&lt;p&gt;An infinite sequence $\langle u_n \rangle&amp;gt;$ of real numbers is holonomic if it  satisfies a linear recurrence relation with polynomial coefficients.  Such a sequence is positive if each $u_n \geq 0$, and minimal if, given  any other linearly independent sequence $\langle v_n \rangle$ satisfying the same  recurrence relation, the ratio $u_n/v_n$ converges to $0$ as $n$ tends to  infinity.
-In recent work, the speaker and collaborators establish a  Turing reduction of the problem of deciding positivity of second-order  holonomic sequences to that of deciding minimality of such sequences.  More specifically, we give a procedure for determining positivity of  second-order holonomic sequences that terminates in all but an  exceptional number of cases, and we show that in these exceptional cases positivity can be determined using an oracle for deciding minimality.&lt;/p&gt;
+&lt;p&gt;An infinite sequence $\langle u_n \rangle$ of real numbers is holonomic if it  satisfies a linear recurrence relation with polynomial coefficients.  Such a sequence is positive if each $u_n \geq 0$, and minimal if, given  any other linearly independent sequence $\langle v_n \rangle$ satisfying the same  recurrence relation, the ratio $u_n/v_n$ converges to $0$ as $n$ tends to  infinity.
+In recent work, the speaker and collaborators establish a Turing reduction of the problem of deciding positivity of second-order  holonomic sequences to that of deciding minimality of such sequences.  More specifically, we give a procedure for determining positivity of  second-order holonomic sequences that terminates in all but an  exceptional number of cases, and we show that in these exceptional cases positivity can be determined using an oracle for deciding minimality.&lt;/p&gt;
 </description>
     </item>
     

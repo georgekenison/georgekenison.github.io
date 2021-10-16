@@ -5,12 +5,20 @@
     <link>https://georgekenison.github.io/publication-type/1/</link>
       <atom:link href="https://georgekenison.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 22 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://georgekenison.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>1</title>
       <link>https://georgekenison.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>On Positivity and Minimality for Second-Order Holonomic Sequences</title>
+      <link>https://georgekenison.github.io/publication/kenison-2021-minimality/</link>
+      <pubDate>Sun, 22 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://georgekenison.github.io/publication/kenison-2021-minimality/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>On the Skolem Problem and prime powers</title>
