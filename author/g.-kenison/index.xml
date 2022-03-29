@@ -5,7 +5,7 @@
     <link>https://georgekenison.github.io/author/g.-kenison/</link>
       <atom:link href="https://georgekenison.github.io/author/g.-kenison/index.xml" rel="self" type="application/rss+xml" />
     <description>G. Kenison</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 22 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 14 Mar 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://georgekenison.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>G. Kenison</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>On Positivity and Minimality for Second-Order Holonomic Sequences</title>
-      <link>https://georgekenison.github.io/publication/kenison-2021-minimality/</link>
-      <pubDate>Sun, 22 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://georgekenison.github.io/publication/kenison-2021-minimality/</guid>
+      <title>On the Skolem Problem for Reversible Sequences</title>
+      <link>https://georgekenison.github.io/publication/kenison-2022-reversible/</link>
+      <pubDate>Mon, 14 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://georgekenison.github.io/publication/kenison-2022-reversible/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On Positivity and Minimality for Second-Order Holonomic Sequences</title>
-      <link>https://georgekenison.github.io/publication/kenison-2022-reversible/</link>
+      <link>https://georgekenison.github.io/publication/kenison-2021-minimality/</link>
       <pubDate>Sun, 22 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://georgekenison.github.io/publication/kenison-2022-reversible/</guid>
+      <guid>https://georgekenison.github.io/publication/kenison-2021-minimality/</guid>
       <description></description>
     </item>
     

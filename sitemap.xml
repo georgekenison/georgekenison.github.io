@@ -3,17 +3,62 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://georgekenison.github.io/tag/decidability/</loc>
-    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
+    <loc>https://georgekenison.github.io/publication-type/3/</loc>
+    <lastmod>2022-03-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://georgekenison.github.io/authors/</loc>
+    <lastmod>2022-03-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://georgekenison.github.io/tag/decision-problems/</loc>
-    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
+    <lastmod>2022-03-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://georgekenison.github.io/author/g.-kenison/</loc>
+    <lastmod>2022-03-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://georgekenison.github.io/</loc>
+    <lastmod>2022-03-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://georgekenison.github.io/publication/kenison-2022-reversible/</loc>
+    <lastmod>2022-03-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://georgekenison.github.io/publication_types/</loc>
+    <lastmod>2022-03-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://georgekenison.github.io/publication/</loc>
+    <lastmod>2022-03-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://georgekenison.github.io/tag/recurrence-sequences/</loc>
+    <lastmod>2022-03-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://georgekenison.github.io/tag/skolem-problem/</loc>
+    <lastmod>2022-03-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://georgekenison.github.io/tags/</loc>
+    <lastmod>2022-03-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://georgekenison.github.io/tag/decidability/</loc>
     <lastmod>2021-10-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -43,17 +88,7 @@
   </url>
   
   <url>
-    <loc>https://georgekenison.github.io/tags/</loc>
-    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://georgekenison.github.io/publication-type/1/</loc>
-    <lastmod>2021-08-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://georgekenison.github.io/authors/</loc>
     <lastmod>2021-08-22T00:00:00+00:00</lastmod>
   </url>
   
@@ -69,11 +104,6 @@
   
   <url>
     <loc>https://georgekenison.github.io/author/f.-luca/</loc>
-    <lastmod>2021-08-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://georgekenison.github.io/author/g.-kenison/</loc>
     <lastmod>2021-08-22T00:00:00+00:00</lastmod>
   </url>
   
@@ -108,33 +138,8 @@
   </url>
   
   <url>
-    <loc>https://georgekenison.github.io/publication/kenison-2022-reversible/</loc>
-    <lastmod>2021-08-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://georgekenison.github.io/author/p.-moree/</loc>
     <lastmod>2021-08-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://georgekenison.github.io/publication_types/</loc>
-    <lastmod>2021-08-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://georgekenison.github.io/publication/</loc>
-    <lastmod>2021-08-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://georgekenison.github.io/tag/recurrence-sequences/</loc>
-    <lastmod>2021-08-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://georgekenison.github.io/publication-type/3/</loc>
-    <lastmod>2021-01-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -194,11 +199,6 @@
   
   <url>
     <loc>https://georgekenison.github.io/author/r.-lipton/</loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://georgekenison.github.io/tag/skolem-problem/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
   </url>
   
