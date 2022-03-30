@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>random walks | George Kenison</title>
+    <link>https://georgekenison.github.io/tag/random-walks/</link>
+      <atom:link href="https://georgekenison.github.io/tag/random-walks/index.xml" rel="self" type="application/rss+xml" />
+    <description>random walks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 14 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://georgekenison.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>random walks</title>
+      <link>https://georgekenison.github.io/tag/random-walks/</link>
+    </image>
+    
+    <item>
+      <title>What is decidable about the Stochastic Reachability Problem?</title>
+      <link>https://georgekenison.github.io/publication/kenison-2022-rw/</link>
+      <pubDate>Fri, 14 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://georgekenison.github.io/publication/kenison-2022-rw/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
