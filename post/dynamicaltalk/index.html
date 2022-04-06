@@ -30,10 +30,10 @@
   
     
   
-  <meta name="description" content="Given an integer linear recurrence sequence $\langle X_n \rangle$, the Skolem Problem asks to determine whether there is a natural number $n$ such that $X_n=0$. In a recent preprint, Lipton, Luca, Nieuwveld, Ouaknine, Purser, and Worrell prove that the Skolem Problem is decidable for a class of reversible sequences of order at most seven. Herein, we give an alternative proof of the result. The novelty of our approach arises from our use of results concerning the polynomial relations between Galois conjugates. In particular, we make repeated use of a result due to Dubickas and Smyth for algebraic integers that lie alongside all their Galois conjugates on two (but not one) concentric circles centred at the origin." />
+  <meta name="description" content="James (Ben) Worrell gave a keynote talk on algorithmic analysis of dynamical systems at the 48th ACM SIGPLAN Symposium on Principles of Programming Languages (POPL 2021). During his talk, Ben presented some of our ongoing work on inequality decision problems for low-order holonomic sequences (see here)." />
 
   
-  <link rel="alternate" hreflang="en-us" href="https://georgekenison.github.io/publication/kenison-2022-reversible/" />
+  <link rel="alternate" hreflang="en-us" href="https://georgekenison.github.io/post/dynamicaltalk/" />
 
   
 
@@ -276,7 +276,7 @@
   <link rel="icon" type="image/png" href="/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_32x32_fill_lanczos_center_2.png" />
   <link rel="apple-touch-icon" type="image/png" href="/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_180x180_fill_lanczos_center_2.png" />
 
-  <link rel="canonical" href="https://georgekenison.github.io/publication/kenison-2022-reversible/" />
+  <link rel="canonical" href="https://georgekenison.github.io/post/dynamicaltalk/" />
 
   
   
@@ -287,24 +287,23 @@
   
   
     
-    
   
   
-  <meta property="twitter:card" content="summary" />
+  <meta property="twitter:card" content="summary_large_image" />
   
   <meta property="og:site_name" content="George Kenison" />
-  <meta property="og:url" content="https://georgekenison.github.io/publication/kenison-2022-reversible/" />
-  <meta property="og:title" content="On the Skolem Problem for Reversible Sequences | George Kenison" />
-  <meta property="og:description" content="Given an integer linear recurrence sequence $\langle X_n \rangle$, the Skolem Problem asks to determine whether there is a natural number $n$ such that $X_n=0$. In a recent preprint, Lipton, Luca, Nieuwveld, Ouaknine, Purser, and Worrell prove that the Skolem Problem is decidable for a class of reversible sequences of order at most seven. Herein, we give an alternative proof of the result. The novelty of our approach arises from our use of results concerning the polynomial relations between Galois conjugates. In particular, we make repeated use of a result due to Dubickas and Smyth for algebraic integers that lie alongside all their Galois conjugates on two (but not one) concentric circles centred at the origin." /><meta property="og:image" content="https://georgekenison.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png" />
-    <meta property="twitter:image" content="https://georgekenison.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png" /><meta property="og:locale" content="en-us" />
+  <meta property="og:url" content="https://georgekenison.github.io/post/dynamicaltalk/" />
+  <meta property="og:title" content="Dynamical Systems and Program Analysis | George Kenison" />
+  <meta property="og:description" content="James (Ben) Worrell gave a keynote talk on algorithmic analysis of dynamical systems at the 48th ACM SIGPLAN Symposium on Principles of Programming Languages (POPL 2021). During his talk, Ben presented some of our ongoing work on inequality decision problems for low-order holonomic sequences (see here)." /><meta property="og:image" content="https://georgekenison.github.io/post/dynamicaltalk/featured.png.png" />
+    <meta property="twitter:image" content="https://georgekenison.github.io/post/dynamicaltalk/featured.png.png" /><meta property="og:locale" content="en-us" />
   
     
       <meta
         property="article:published_time"
-        content="2022-03-14T00:00:00&#43;00:00"
+        content="2022-04-06T00:00:00&#43;00:00"
       />
     
-    <meta property="article:modified_time" content="2022-03-14T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2022-04-06T00:00:00&#43;00:00">
   
 
   
@@ -316,6 +315,8 @@
 
 
 
+
+  
 
 
 
@@ -323,19 +324,23 @@
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Article",
+  "@type": "BlogPosting",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://georgekenison.github.io/publication/kenison-2022-reversible/"
+    "@id": "https://georgekenison.github.io/post/dynamicaltalk/"
   },
-  "headline": "On the Skolem Problem for Reversible Sequences",
+  "headline": "Dynamical Systems and Program Analysis",
   
-  "datePublished": "2022-03-14T00:00:00Z",
-  "dateModified": "2022-03-14T00:00:00Z",
+  "image": [
+    "https://georgekenison.github.io/post/dynamicaltalk/featured.png.png"
+  ],
+  
+  "datePublished": "2022-04-06T00:00:00Z",
+  "dateModified": "2022-04-06T00:00:00Z",
   
   "author": {
     "@type": "Person",
-    "name": "G. Kenison"
+    "name": "George Kenison"
   },
   
   "publisher": {
@@ -346,7 +351,7 @@
       "url": "https://georgekenison.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_192x192_fill_lanczos_center_2.png"
     }
   },
-  "description": "Given an integer linear recurrence sequence $\\langle X_n \\rangle$, the Skolem Problem asks to determine whether there is a natural number $n$ such that $X_n=0$. In a recent preprint, Lipton, Luca, Nieuwveld, Ouaknine, Purser, and Worrell prove that the Skolem Problem is decidable for a class of reversible sequences of order at most seven. Herein, we give an alternative proof of the result. The novelty of our approach arises from our use of results concerning the polynomial relations between Galois conjugates. In particular, we make repeated use of a result due to Dubickas and Smyth for algebraic integers that lie alongside all their Galois conjugates on two (but not one) concentric circles centred at the origin."
+  "description": "James (Ben) Worrell gave a keynote talk on algorithmic analysis of dynamical systems at the 48th ACM SIGPLAN Symposium on Principles of Programming Languages (POPL 2021). During his talk, Ben presented some of our ongoing work on inequality decision problems for low-order holonomic sequences (see here)."
 }
 </script>
 
@@ -362,11 +367,11 @@
 
 
 
-  <title>On the Skolem Problem for Reversible Sequences | George Kenison</title>
+  <title>Dynamical Systems and Program Analysis | George Kenison</title>
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="23d34c6a27799ce78684ed4cff0229ca" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="d3034471fb54da77100c07ed5e059cfd" >
 
   
   
@@ -660,16 +665,7 @@
   </div>
 
   <div class="page-body">
-    
-
-
-
-
-
-
-
-
-<div class="pub">
+    <article class="article">
 
   
 
@@ -684,32 +680,28 @@
 
 
 
-  
+
+
+
+
+
+
+
 
   
   
-  
+
+
 <div class="article-container pt-3">
-  <h1>On the Skolem Problem for Reversible Sequences</h1>
+  <h1>Dynamical Systems and Program Analysis</h1>
 
   
 
   
-    
 
 
 <div class="article-metadata">
 
-  
-  
-  
-  
-  <div>
-    
-
-  <span >
-      <a href="/author/g.-kenison/">G. Kenison</a></span>
-  </div>
   
   
 
@@ -719,13 +711,18 @@
     
       
     
-    March 2022
+    Apr 6, 2022
   </span>
   
 
   
 
   
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    2 min read
+  </span>
+  
 
   
   
@@ -739,124 +736,38 @@
 
 </div>
 
-    
-
-
-
-
-<div class="btn-links mb-3">
-  
   
 
 
 
-
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary btn-page-header" href="https://arxiv.org/pdf/2203.07061.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-<a href="#" class="btn btn-outline-primary btn-page-header js-cite-modal"
-        data-filename="/publication/kenison-2022-reversible/cite.bib">
-  Cite
-</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a class="btn btn-outline-primary btn-page-header" href="https://doi.org/10.48550/arXiv.2203.07061" target="_blank" rel="noopener">
-  DOI
-</a>
-
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  <a class="btn btn-outline-primary btn-page-header" href="https://doi.org/10.48550/arXiv.2203.07061" target="_blank" rel="noopener">
-    
-    arXiv
-  </a>
 
 
 </div>
 
 
-  
+<div class="article-header container-fluid featured-image-wrapper mt-4 mb-4" style="max-width: 1280px; max-height: 950px;">
+  <div style="position: relative">
+    <img src="/post/dynamicaltalk/featured.png.png" alt="" class="featured-image">
+    
+  </div>
 </div>
 
 
 
   <div class="article-container">
 
-    
-    <h3>Abstract</h3>
-    <p class="pub-abstract">Given an integer linear recurrence sequence $\langle X_n \rangle$, the Skolem Problem asks to determine whether there is a natural number $n$ such that $X_n=0$. In a recent preprint, Lipton, Luca, Nieuwveld, Ouaknine, Purser, and Worrell prove that the Skolem Problem is decidable for a class of reversible sequences of order at most seven. Herein, we give an alternative proof of the result. The novelty of our approach arises from our use of results concerning the polynomial relations between Galois conjugates. In particular, we make repeated use of a result due to Dubickas and Smyth for algebraic integers that lie alongside all their Galois conjugates on two (but not one) concentric circles centred at the origin.</p>
-    
+    <div class="article-style">
+      <p>James (Ben) Worrell gave a keynote talk on algorithmic analysis of dynamical systems at the 48th ACM SIGPLAN Symposium on Principles of Programming Languages (POPL 2021).
+During his talk, Ben presented some of our ongoing work on inequality decision problems for low-order holonomic sequences (<a href="/publication/kenison-2020-positivity/">see here</a>).  The abstract and recording for the talk are given below. Here are Ben&rsquo;s <a href="https://popl21.sigplan.org/details/POPL-2021-research-papers/69/Dynamical-Systems-and-Program-Analysis" target="_blank" rel="noopener">slides</a>.</p>
+<h3 id="abstract">Abstract</h3>
+<p>This talk is about the algorithmic analysis of dynamical systems and its relevance to the foundations of program analysis. A dynamical system is a state-based system that is specified by a rule specifying how the state changes over time (e.g., a swinging pendulum or a cobweb model of supply and demand in economics). While the study of dynamical systems permeates the quantitative sciences, in this talk we focus on computational aspects and their relevance to basic verification problems, such as termination and invariant synthesis. We highlight in particular certain problems that can be traced back to the program-analysis literature, e.g., concerning the decidability of termination for linear constraint loops and the computability of polyhedral and polynomial invariants for various classes of transition systems. In the talk we give some of the mathematical context of these problems, discuss recent progress, and highlight unsolved cases. The characteristic feature of the problems we consider is that they turn out to be much more challenging than they might first appear to the innocent-minded and in some cases have connections to problems at the frontiers of modern mathematics.</p>
 
-    
-    
-    <div class="row">
-      <div class="col-md-1"></div>
-      <div class="col-md-10">
-        <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading">Type</div>
-          <div class="col-12 col-md-9">
-            <a href="/publication/#3">
-              Preprint
-            </a>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-1"></div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/9kUlHlvfU94" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+
     </div>
-    <div class="d-md-none space-below"></div>
-    
-
-    
-    <div class="row">
-      <div class="col-md-1"></div>
-      <div class="col-md-10">
-        <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">Submitted</div>
-        </div>
-      </div>
-      <div class="col-md-1"></div>
-    </div>
-    <div class="d-md-none space-below"></div>
-    
-
-    <div class="space-below"></div>
-
-    <div class="article-style"></div>
 
     
 
@@ -869,9 +780,11 @@
   
   <a class="badge badge-light" href="/tag/decision-problems/">decision problems</a>
   
-  <a class="badge badge-light" href="/tag/recurrence-sequences/">recurrence sequences</a>
+  <a class="badge badge-light" href="/tag/decidability/">decidability</a>
   
-  <a class="badge badge-light" href="/tag/skolem-problem/">Skolem Problem</a>
+  <a class="badge badge-light" href="/tag/holonomic-sequences/">holonomic sequences</a>
+  
+  <a class="badge badge-light" href="/tag/positivity-problem/">Positivity Problem</a>
   
 </div>
 
@@ -888,7 +801,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://georgekenison.github.io/publication/kenison-2022-reversible/&amp;text=On%20the%20Skolem%20Problem%20for%20Reversible%20Sequences" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://georgekenison.github.io/post/dynamicaltalk/&amp;text=Dynamical%20Systems%20and%20Program%20Analysis" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -901,7 +814,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://georgekenison.github.io/publication/kenison-2022-reversible/&amp;t=On%20the%20Skolem%20Problem%20for%20Reversible%20Sequences" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://georgekenison.github.io/post/dynamicaltalk/&amp;t=Dynamical%20Systems%20and%20Program%20Analysis" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -914,7 +827,7 @@
       
       
       <li>
-        <a href="mailto:?subject=On%20the%20Skolem%20Problem%20for%20Reversible%20Sequences&amp;body=https://georgekenison.github.io/publication/kenison-2022-reversible/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Dynamical%20Systems%20and%20Program%20Analysis&amp;body=https://georgekenison.github.io/post/dynamicaltalk/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -927,7 +840,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://georgekenison.github.io/publication/kenison-2022-reversible/&amp;title=On%20the%20Skolem%20Problem%20for%20Reversible%20Sequences" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://georgekenison.github.io/post/dynamicaltalk/&amp;title=Dynamical%20Systems%20and%20Program%20Analysis" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -940,7 +853,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=On%20the%20Skolem%20Problem%20for%20Reversible%20Sequences%20https://georgekenison.github.io/publication/kenison-2022-reversible/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="whatsapp://send?text=Dynamical%20Systems%20and%20Program%20Analysis%20https://georgekenison.github.io/post/dynamicaltalk/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -953,7 +866,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://georgekenison.github.io/publication/kenison-2022-reversible/&amp;title=On%20the%20Skolem%20Problem%20for%20Reversible%20Sequences" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://georgekenison.github.io/post/dynamicaltalk/&amp;title=Dynamical%20Systems%20and%20Program%20Analysis" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -973,12 +886,128 @@
 
   
   
-    
-
 
 
 
   
+  
+  
+    
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="https://georgekenison.github.io/"><img class="avatar mr-3 avatar-circle" src="/author/george-kenison/avatar_hud723f823fedfada94bcbeca8a4b89279_3639330_270x270_fill_q90_lanczos_center.jpg" alt="George Kenison"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="https://georgekenison.github.io/">George Kenison</a></h5>
+      <h6 class="card-subtitle">Postdoctoral Researcher</h6>
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/#contact" >
+        <i class="fas fa-envelope-square"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.com/citations?user=pkhgzFAAAAAJ&amp;hl=en" target="_blank" rel="noopener">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://arxiv.org/search/math?searchtype=author&amp;query=Kenison%2C&#43;G" target="_blank" rel="noopener">
+        <i class="ai ai-arxiv"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://dblp.org/pid/267/5393" target="_blank" rel="noopener">
+        <i class="ai ai-dblp"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/georgekenison" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/files/cv.pdf" >
+        <i class="ai ai-cv"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
 
 
 
@@ -999,15 +1028,15 @@
     <h3>Related</h3>
     <ul>
       
-      <li><a href="/publication/kenison-2022-rw/">What is decidable about the Stochastic Reachability Problem?</a></li>
+      <li><a href="/post/mfcstalk/">On minimality and positivity for second-order holonomic sequences</a></li>
+      
+      <li><a href="/post/holonomictalk/">Holonomic techniques, periods, and decision problems</a></li>
       
       <li><a href="/publication/kenison-2021-minimality/">On Positivity and Minimality for Second-Order Holonomic Sequences</a></li>
       
       <li><a href="/publication/kenison-2020-positivity/">On Inequality Decision Problems for Low-Order Holonomic Sequences</a></li>
       
-      <li><a href="/publication/kenison-2020-skolem/">On the Skolem Problem and prime powers</a></li>
-      
-      <li><a href="/post/dynamicaltalk/">Dynamical Systems and Program Analysis</a></li>
+      <li><a href="/post/fourcycle/">Markov Reachability for biased cycles</a></li>
       
     </ul>
   </div>
@@ -1018,7 +1047,7 @@
 
 
   </div>
-</div>
+</article>
   </div>
 
   <div class="page-footer">
@@ -1105,6 +1134,8 @@
       
       
 
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.8.4/mermaid.min.js" integrity="sha512-as1BF4+iHZ3BVO6LLDQ7zrbvTXM+c/1iZ1qII/c3c4L8Rn5tHLpFUtpaEtBNS92f+xGsCzsD7b62XP3XYap6oA==" crossorigin="anonymous" title="mermaid"></script>
       
 
       

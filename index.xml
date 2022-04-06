@@ -5,12 +5,29 @@
     <link>https://georgekenison.github.io/</link>
       <atom:link href="https://georgekenison.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>George Kenison</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 14 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 06 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://georgekenison.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>George Kenison</title>
       <link>https://georgekenison.github.io/</link>
     </image>
+    
+    <item>
+      <title>Dynamical Systems and Program Analysis</title>
+      <link>https://georgekenison.github.io/post/dynamicaltalk/</link>
+      <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://georgekenison.github.io/post/dynamicaltalk/</guid>
+      <description>&lt;p&gt;James (Ben) Worrell gave a keynote talk on algorithmic analysis of dynamical systems at the 48th ACM SIGPLAN Symposium on Principles of Programming Languages (POPL 2021).
+During his talk, Ben presented some of our ongoing work on inequality decision problems for low-order holonomic sequences (&lt;a href=&#34;https://georgekenison.github.io/publication/kenison-2020-positivity/&#34;&gt;see here&lt;/a&gt;).  The abstract and recording for the talk are given below. Here are Ben&amp;rsquo;s &lt;a href=&#34;https://popl21.sigplan.org/details/POPL-2021-research-papers/69/Dynamical-Systems-and-Program-Analysis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;slides&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+&lt;p&gt;This talk is about the algorithmic analysis of dynamical systems and its relevance to the foundations of program analysis. A dynamical system is a state-based system that is specified by a rule specifying how the state changes over time (e.g., a swinging pendulum or a cobweb model of supply and demand in economics). While the study of dynamical systems permeates the quantitative sciences, in this talk we focus on computational aspects and their relevance to basic verification problems, such as termination and invariant synthesis. We highlight in particular certain problems that can be traced back to the program-analysis literature, e.g., concerning the decidability of termination for linear constraint loops and the computability of polyhedral and polynomial invariants for various classes of transition systems. In the talk we give some of the mathematical context of these problems, discuss recent progress, and highlight unsolved cases. The characteristic feature of the problems we consider is that they turn out to be much more challenging than they might first appear to the innocent-minded and in some cases have connections to problems at the frontiers of modern mathematics.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/9kUlHlvfU94&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
     
     <item>
       <title>On the Skolem Problem for Reversible Sequences</title>
