@@ -7,7 +7,7 @@
     <description>Markov Reachability Problem</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://georgekenison.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>https://georgekenison.github.io/media/icon_hu77e73f7cff5c696fd30270c2c33dd3bf_36783_512x512_fill_lanczos_center_3.png</url>
       <title>Markov Reachability Problem</title>
       <link>https://georgekenison.github.io/tag/markov-reachability-problem/</link>
     </image>
@@ -27,8 +27,8 @@ The decidability of the Markov Reachability Problem is currently open.&lt;/p&gt;
 Let us define the entries of an $m\times m$ stochastic matrix $K$ with rows and columns indexed by the states ${1,2,\ldots, m}$ as follows&lt;/p&gt;
 &lt;p&gt;\begin{equation*}
 K(i,j) = \begin{cases}
-p &amp;amp; \text{if } j=i+1 \pmod{m},\\&lt;br&gt;
-1-p &amp;amp; \text{if } j=i-1 \pmod{m},\\&lt;br&gt;
+p &amp;amp; \text{if } j=i+1 \pmod{m},\\
+1-p &amp;amp; \text{if } j=i-1 \pmod{m},\\
 0 &amp;amp; \text{otherwise}.
 \end{cases}
 \end{equation*}&lt;/p&gt;
@@ -57,9 +57,9 @@ K^{4m+3}(1,2) &amp;amp;= \sum_{j=0}^{2m} \binom{4m+3}{2j+2} p^{2j+2}(1-p)^{4m-2j
 \end{align*}&lt;/p&gt;
 &lt;p&gt;Using standard techniques for binomial expansions we can express $K^{4n+1}(1,2)$ as follows
 \begin{align*}
-1- (1-2p)^{4m+1} &amp;amp;= (p + (1-p))^{4m+1} -(-p+(1-p))^{4m+1} \\&lt;br&gt;
-&amp;amp;= \sum_{j=0}^{4m+1} \binom{4m+1}{j} p^j (1-p)^{4m+1-j} (1-(-1)^j) \\&lt;br&gt;
-&amp;amp;= 2\sum_{j=0}^{2m} \binom{4m+1}{2j+1} p^{2j+1} (1-p)^{4m-2j} \\&lt;br&gt;
+1- (1-2p)^{4m+1} &amp;amp;= (p + (1-p))^{4m+1} -(-p+(1-p))^{4m+1} \\
+&amp;amp;= \sum_{j=0}^{4m+1} \binom{4m+1}{j} p^j (1-p)^{4m+1-j} (1-(-1)^j) \\
+&amp;amp;= 2\sum_{j=0}^{2m} \binom{4m+1}{2j+1} p^{2j+1} (1-p)^{4m-2j} \\
 &amp;amp;= 2K^{4m+1}(1,2).
 \end{align*}&lt;/p&gt;
 &lt;p&gt;Suppose, for a contradiction, that there is an $m\equiv 1 \pmod{4}$ for which $K^m(1,2)={1}/{2}$.  Then  $0 = K^m(1,2) - {1}/{2} = -(2p-1)^{m}/2$, but this contradicts our assumption that $p\in(0,1/{2})$.  The fact that there is no $m\equiv 3 \pmod{4}$ for which $K^m(1,2) = 1/{2}$ follows by a similar argument.  Thus we determine there is no $m\in\mathbb{N}$ for which $K^m(1,2)=1/{2}$ as required.&lt;/p&gt;
