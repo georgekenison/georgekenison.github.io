@@ -3,11 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://georgekenison.github.io/publication-type/3/</loc>
-    <lastmod>2022-06-15T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://georgekenison.github.io/publication/kenison-2022-hypergeometric/</loc>
+    <lastmod>2022-11-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://georgekenison.github.io/tag/decision-problems/</loc>
+    <lastmod>2022-11-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://georgekenison.github.io/</loc>
-    <lastmod>2022-06-15T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://georgekenison.github.io/tag/hypergeometric-sequences/</loc>
+    <lastmod>2022-11-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://georgekenison.github.io/tag/membership-problem/</loc>
+    <lastmod>2022-11-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://georgekenison.github.io/publication_types/</loc>
+    <lastmod>2022-11-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://georgekenison.github.io/publication/</loc>
+    <lastmod>2022-11-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://georgekenison.github.io/tags/</loc>
+    <lastmod>2022-11-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://georgekenison.github.io/tag/threshold-problem/</loc>
+    <lastmod>2022-11-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://georgekenison.github.io/tag/invariant-generation/</loc>
@@ -18,19 +50,7 @@
     <lastmod>2022-06-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://georgekenison.github.io/publication_types/</loc>
-    <lastmod>2022-06-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://georgekenison.github.io/publication/</loc>
-    <lastmod>2022-06-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://georgekenison.github.io/publication/amrollahi-2022-invariant/</loc>
-    <lastmod>2022-06-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://georgekenison.github.io/tags/</loc>
     <lastmod>2022-06-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -39,10 +59,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://georgekenison.github.io/tag/decidability/</loc>
-    <lastmod>2022-04-06T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://georgekenison.github.io/tag/decision-problems/</loc>
     <lastmod>2022-04-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
