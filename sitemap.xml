@@ -250,5 +250,8 @@
   </url><url>
     <loc>https://georgekenison.github.io/event/</loc>
     <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://georgekenison.github.io/worrell/</loc>
+    <changefreq>weekly</changefreq>
   </url>
 </urlset>
