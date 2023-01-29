@@ -226,6 +226,26 @@
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://georgekenison.github.io/tag/loops/</loc>
+    <lastmod>2018-06-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://georgekenison.github.io/tag/reachability/</loc>
+    <lastmod>2018-06-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://georgekenison.github.io/tag/recurrences/</loc>
+    <lastmod>2018-06-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://georgekenison.github.io/tag/workshop/</loc>
+    <lastmod>2018-06-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://georgekenison.github.io/worrell/</loc>
+    <lastmod>2018-06-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://georgekenison.github.io/tag/asymptotic-properties-of-groups/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -249,9 +269,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://georgekenison.github.io/event/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://georgekenison.github.io/worrell/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
