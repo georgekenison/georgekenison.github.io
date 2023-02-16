@@ -3,7 +3,39 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://georgekenison.github.io/publication-type/3/</loc>
-    <lastmod>2022-11-05T00:00:00+00:00</lastmod>
+    <lastmod>2023-02-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://georgekenison.github.io/publication/kenison-2023-loop/</loc>
+    <lastmod>2023-02-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://georgekenison.github.io/</loc>
+    <lastmod>2023-02-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://georgekenison.github.io/tag/loop-synthesis/</loc>
+    <lastmod>2023-02-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://georgekenison.github.io/tag/loops/</loc>
+    <lastmod>2023-02-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://georgekenison.github.io/tag/polynomial-invariants/</loc>
+    <lastmod>2023-02-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://georgekenison.github.io/publication_types/</loc>
+    <lastmod>2023-02-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://georgekenison.github.io/publication/</loc>
+    <lastmod>2023-02-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://georgekenison.github.io/tags/</loc>
+    <lastmod>2023-02-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://georgekenison.github.io/publication/kenison-2022-hypergeometric/</loc>
@@ -14,27 +46,11 @@
     <lastmod>2022-11-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://georgekenison.github.io/</loc>
-    <lastmod>2022-11-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://georgekenison.github.io/tag/hypergeometric-sequences/</loc>
     <lastmod>2022-11-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://georgekenison.github.io/tag/membership-problem/</loc>
-    <lastmod>2022-11-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://georgekenison.github.io/publication_types/</loc>
-    <lastmod>2022-11-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://georgekenison.github.io/publication/</loc>
-    <lastmod>2022-11-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://georgekenison.github.io/tags/</loc>
     <lastmod>2022-11-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -224,10 +240,6 @@
   </url><url>
     <loc>https://georgekenison.github.io/tag/thermodynamic-formalism/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://georgekenison.github.io/tag/loops/</loc>
-    <lastmod>2018-06-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://georgekenison.github.io/tag/reachability/</loc>
