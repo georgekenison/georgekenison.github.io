@@ -1,16 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Invariant Generation | George Kenison</title>
+    <title>invariant generation | George Kenison</title>
     <link>https://georgekenison.github.io/tag/invariant-generation/</link>
       <atom:link href="https://georgekenison.github.io/tag/invariant-generation/index.xml" rel="self" type="application/rss+xml" />
-    <description>Invariant Generation</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 15 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <description>invariant generation</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 23 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://georgekenison.github.io/media/icon_hu77e73f7cff5c696fd30270c2c33dd3bf_36783_512x512_fill_lanczos_center_3.png</url>
-      <title>Invariant Generation</title>
+      <title>invariant generation</title>
       <link>https://georgekenison.github.io/tag/invariant-generation/</link>
     </image>
+    
+    <item>
+      <title>Solving Invariant Generation for Unsolvable Loops</title>
+      <link>https://georgekenison.github.io/post/2022sastalk/</link>
+      <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://georgekenison.github.io/post/2022sastalk/</guid>
+      <description>&lt;p&gt;Marcel Moosbrugger presented our joint work (&lt;a href=&#34;https://georgekenison.github.io/publication/amrollahi-2022-invariant/&#34;&gt;see here&lt;/a&gt;).
+on invariant generation for unsolvable loops at the ACM SIGPLAN 29th Static Analysis Symposium (SAS 2022).&lt;/p&gt;
+&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+&lt;p&gt;Automatically generating invariants, key to computer-aided analysis of probabilistic and deterministic programs and compiler optimisation, is a challenging open problem. Whilst the problem is in general undecidable, the goal is settled for restricted classes of loops. For the class of solvable loops, introduced by Kapur and Rodríguez-Carbonell in 2004, one can automatically compute invariants from closed-form solutions of recurrence equations that model the loop behaviour. In this paper we establish a technique for invariant synthesis for loops that are not solvable, termed unsolvable loops. Our approach automatically partitions the program variables and identifies the so-called defective variables that characterise unsolvability. We further present a novel technique that automatically synthesises polynomials, in the defective variables, that admit closed-form solutions and thus lead to polynomial loop invariants. Our implementation and experiments demonstrate both the feasibility and applicability of our approach to both deterministic and probabilistic programs.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/fZbGGx2ifho&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Solving Invariant Generation for Unsolvable Loops</title>
