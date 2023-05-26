@@ -5,7 +5,7 @@
     <link>https://georgekenison.github.io/tag/membership-problem/</link>
       <atom:link href="https://georgekenison.github.io/tag/membership-problem/index.xml" rel="self" type="application/rss+xml" />
     <description>Membership Problem</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 05 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 05 Mar 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://georgekenison.github.io/media/icon_hu77e73f7cff5c696fd30270c2c33dd3bf_36783_512x512_fill_lanczos_center_3.png</url>
       <title>Membership Problem</title>
@@ -13,7 +13,15 @@
     </image>
     
     <item>
-      <title>Applications of transcendental number theory to decision problems for hypergeometric sequences</title>
+      <title>The Membership Problem for Hypergeometric Sequences with Quadratic Parameters</title>
+      <link>https://georgekenison.github.io/publication/kenison-2023-hypergeometric/</link>
+      <pubDate>Sun, 05 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://georgekenison.github.io/publication/kenison-2023-hypergeometric/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Membership and Threshold Problems for Hypergeometric Sequences with Quadratic Parameters</title>
       <link>https://georgekenison.github.io/publication/kenison-2022-hypergeometric/</link>
       <pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate>
       <guid>https://georgekenison.github.io/publication/kenison-2022-hypergeometric/</guid>
