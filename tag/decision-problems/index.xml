@@ -5,12 +5,20 @@
     <link>https://georgekenison.github.io/tag/decision-problems/</link>
       <atom:link href="https://georgekenison.github.io/tag/decision-problems/index.xml" rel="self" type="application/rss+xml" />
     <description>decision problems</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 05 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 13 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://georgekenison.github.io/media/icon_hu77e73f7cff5c696fd30270c2c33dd3bf_36783_512x512_fill_lanczos_center_3.png</url>
       <title>decision problems</title>
       <link>https://georgekenison.github.io/tag/decision-problems/</link>
     </image>
+    
+    <item>
+      <title>Positivity Problems for Reversible Linear Recurrence Sequences</title>
+      <link>https://georgekenison.github.io/publication/kenison-2023-reversiblepositivity/</link>
+      <pubDate>Sat, 13 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://georgekenison.github.io/publication/kenison-2023-reversiblepositivity/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The Membership Problem for Hypergeometric Sequences with Quadratic Parameters</title>
