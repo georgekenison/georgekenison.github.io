@@ -19,8 +19,8 @@
       <guid>https://georgekenison.github.io/worrell/</guid>
       <description>&lt;h2 id=&#34;workshop-on-reachability-recurrences-and-loops&#34;&gt;Workshop On Reachability, Recurrences, and Loops&lt;/h2&gt;
 &lt;h3 id=&#34;satellite-workshop-at-icalp-2023httpsicalp2023csupbde&#34;&gt;Satellite Workshop at &lt;a href=&#34;https://icalp2023.cs.upb.de/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICALP 2023&lt;/a&gt;&lt;/h3&gt;
-&lt;h4 id=&#34;paderborn-germany&#34;&gt;Paderborn, Germany&lt;/h4&gt;
-&lt;h4 id=&#34;monday-10th-july-2023&#34;&gt;Monday 10th July 2023&lt;/h4&gt;
+&lt;h4 id=&#34;paderborn-germany-monday-10th-july-2023&#34;&gt;Paderborn, Germany (Monday 10th July 2023)&lt;/h4&gt;
+&lt;h4 id=&#34;workshop-registration-linkhttpsicalp2023csupbderegistration&#34;&gt;&lt;a href=&#34;https://icalp2023.cs.upb.de/registration/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Workshop Registration Link&lt;/a&gt;&lt;/h4&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;topic&#34;&gt;Topic&lt;/h2&gt;
 &lt;p&gt;Recursively defined sequences are foundational objects of study in the computational sciences; they arise naturally in areas such as: the analysis of algorithms, weighted automata, loop termination, and probabilistic models.&lt;/p&gt;
@@ -30,7 +30,7 @@
 The one-day workshop will also celebrate the research contributions of Professor James Worrell (also known as Ben). For context, Ben is giving an &lt;a href=&#34;https://icalp2023.cs.upb.de/invited-speakers/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;invited talk&lt;/a&gt; at ICALP this year.&lt;/p&gt;
 &lt;p&gt;Coincidentally, the workshop is a few days prior to Ben&amp;rsquo;s birthday.
 We plan to celebrate with a birthday dinner on Sunday 09th July (the evening before the workshop), so please take this into consideration for planning your travel to Paderborn.&lt;/p&gt;
-&lt;h2 id=&#34;hahahugoshortcode-s0-hbhb&#34;&gt;
+
 
 
 
@@ -61,7 +61,11 @@ We plan to celebrate with a birthday dinner on Sunday 09th July (the evening bef
   &lt;/div&gt;&lt;figcaption&gt;
       Professor James Worrell
     &lt;/figcaption&gt;&lt;/figure&gt;
-&lt;/h2&gt;
+
+&lt;hr&gt;
+&lt;h2 id=&#34;participation&#34;&gt;Participation&lt;/h2&gt;
+&lt;p&gt;To participate in-person, please register for WORReLL&#39;23 through ICALP&amp;rsquo;s &lt;a href=&#34;https://icalp2023.cs.upb.de/registration/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;registration portal&lt;/a&gt;.  To participate remotely over Zoom, please contact the organisers for further details.&lt;/p&gt;
+&lt;hr&gt;
 &lt;h2 id=&#34;confirmed-speakers-and-talks&#34;&gt;Confirmed Speakers and Talks&lt;/h2&gt;
 &lt;h4 id=&#34;nikhil-balajihttpssitesgooglecomviewnikhilbalajihome-iit-delhi-_on-the-complexity-of-the-sum-of-square-roots-problem_&#34;&gt;&lt;a href=&#34;https://sites.google.com/view/nikhilbalaji/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nikhil Balaji&lt;/a&gt; (IIT Delhi) &lt;em&gt;On the Complexity of the Sum of Square Roots Problem&lt;/em&gt;&lt;/h4&gt;
 &lt;p&gt;Given positive integers $a_1, a_2, \dots, a_n$ and $b_1, b_2, \dots, b_m$, the Sum of Square Roots

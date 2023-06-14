@@ -5,12 +5,31 @@
     <link>https://georgekenison.github.io/post/</link>
       <atom:link href="https://georgekenison.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 23 May 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://georgekenison.github.io/media/icon_hu77e73f7cff5c696fd30270c2c33dd3bf_36783_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>https://georgekenison.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Summer Workshops (2023)</title>
+      <link>https://georgekenison.github.io/post/2023workshops/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://georgekenison.github.io/post/2023workshops/</guid>
+      <description>&lt;p&gt;I am co-organizing two workshops in July 2023: WORReLL&#39;23  (&lt;a href=&#34;https://georgekenison.github.io/worrell/&#34;&gt;see here&lt;/a&gt;) and Autobóz 2023 (&lt;a href=&#34;https://autoboz.org/home-23&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;see here&lt;/a&gt;).&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;worrell23&#34;&gt;WORReLL&#39;23&lt;/h3&gt;
+&lt;p&gt;WORRELL&#39;23 is a one-day satellite workshop of at ICALP&#39;23. 
+The aim of the workshop is to bring together researchers from the community and showcase cutting-edge research on &lt;em&gt;Reachability&lt;/em&gt;, &lt;em&gt;Recurrences&lt;/em&gt;, and &lt;em&gt;Loops&lt;/em&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;autobóz&#34;&gt;Autobóz&lt;/h3&gt;
+&lt;p&gt;Autobóz is a yearly week-long invitational research camp on Logic, Automata, and
+Games.&lt;/p&gt;
+&lt;p&gt;In 2023, Autobóz will take place at the Seminarhaus in the Hessische Staatsdomäne Frankenhausen the week between &lt;a href=&#34;https://icalp2023.cs.upb.de/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICALP&lt;/a&gt;  and &lt;a href=&#34;https://highlights-conference.org/2023/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Highlights&lt;/a&gt;. Indeed, Autobóz is excited to partnership with Highlights as part of the &lt;a href=&#34;https://highlights-conference.org/2023/hcrw&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Highlights Collaborative Research Week&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We have solicited expert tutorials on topics as diverse as: &lt;em&gt;Circuit Verification using Computer Algebra&lt;/em&gt;, &lt;em&gt;Decision Problems for Subclasses of Rational Relations&lt;/em&gt;, and &lt;em&gt;Weak Memory Models in Concurrency&lt;/em&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Solving Invariant Generation for Unsolvable Loops</title>
