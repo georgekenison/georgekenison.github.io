@@ -2,6 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://georgekenison.github.io/publication/amrollahi-2023-unsolvable/</loc>
+    <lastmod>2023-06-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://georgekenison.github.io/publication-type/3/</loc>
+    <lastmod>2023-06-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://georgekenison.github.io/</loc>
+    <lastmod>2023-06-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://georgekenison.github.io/tag/invariant-generation/</loc>
+    <lastmod>2023-06-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://georgekenison.github.io/tag/loop-synthesis/</loc>
+    <lastmod>2023-06-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://georgekenison.github.io/tag/probabilistic-programs/</loc>
+    <lastmod>2023-06-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://georgekenison.github.io/publication_types/</loc>
+    <lastmod>2023-06-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://georgekenison.github.io/publication/</loc>
+    <lastmod>2023-06-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://georgekenison.github.io/tags/</loc>
+    <lastmod>2023-06-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://georgekenison.github.io/tag/unsolvable-loops/</loc>
+    <lastmod>2023-06-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://georgekenison.github.io/tag/autoboz/</loc>
     <lastmod>2023-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -11,10 +51,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://georgekenison.github.io/tag/games/</loc>
-    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://georgekenison.github.io/</loc>
     <lastmod>2023-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -30,10 +66,6 @@
     <lastmod>2023-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://georgekenison.github.io/tags/</loc>
-    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://georgekenison.github.io/tag/worrell23/</loc>
     <lastmod>2023-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -46,19 +78,11 @@
     <lastmod>2023-05-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://georgekenison.github.io/tag/invariant-generation/</loc>
-    <lastmod>2023-05-23T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://georgekenison.github.io/tag/program-analysis/</loc>
     <lastmod>2023-05-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://georgekenison.github.io/post/2022sastalk/</loc>
-    <lastmod>2023-05-23T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://georgekenison.github.io/tag/unsolvable-loops/</loc>
     <lastmod>2023-05-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -75,14 +99,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://georgekenison.github.io/publication/kenison-2023-reversiblepositivity/</loc>
-    <lastmod>2023-05-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://georgekenison.github.io/publication_types/</loc>
-    <lastmod>2023-05-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://georgekenison.github.io/publication/</loc>
     <lastmod>2023-05-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -106,10 +122,6 @@
     <lastmod>2023-02-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://georgekenison.github.io/tag/loop-synthesis/</loc>
-    <lastmod>2023-02-14T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://georgekenison.github.io/tag/loops/</loc>
     <lastmod>2023-02-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -118,20 +130,12 @@
     <lastmod>2023-02-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://georgekenison.github.io/publication-type/3/</loc>
-    <lastmod>2022-11-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://georgekenison.github.io/publication/kenison-2022-hypergeometric/</loc>
     <lastmod>2022-11-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://georgekenison.github.io/tag/threshold-problem/</loc>
     <lastmod>2022-11-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://georgekenison.github.io/tag/probabilistic-programs/</loc>
-    <lastmod>2022-06-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://georgekenison.github.io/publication/amrollahi-2022-invariant/</loc>

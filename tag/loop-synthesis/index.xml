@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>loop synthesis | George Kenison</title>
+    <title>Loop Synthesis | George Kenison</title>
     <link>https://georgekenison.github.io/tag/loop-synthesis/</link>
       <atom:link href="https://georgekenison.github.io/tag/loop-synthesis/index.xml" rel="self" type="application/rss+xml" />
-    <description>loop synthesis</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 14 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <description>Loop Synthesis</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 06 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://georgekenison.github.io/media/icon_hu77e73f7cff5c696fd30270c2c33dd3bf_36783_512x512_fill_lanczos_center_3.png</url>
-      <title>loop synthesis</title>
+      <title>Loop Synthesis</title>
       <link>https://georgekenison.github.io/tag/loop-synthesis/</link>
     </image>
+    
+    <item>
+      <title>(Un)Solvable Loop Analysis</title>
+      <link>https://georgekenison.github.io/publication/amrollahi-2023-unsolvable/</link>
+      <pubDate>Tue, 06 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://georgekenison.github.io/publication/amrollahi-2023-unsolvable/</guid>
+      <description>&lt;p&gt;Extended version of the conference paper &lt;em&gt;Solving Invariant Generation for Unsolvable Loops&lt;/em&gt; published at SAS 2022 (&lt;a href=&#34;https://georgekenison.github.io/publication/amrollahi-2022-invariant/&#34;&gt;see here&lt;/a&gt;).&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>From Polynomial Invariants to Linear Loops</title>

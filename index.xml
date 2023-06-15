@@ -5,7 +5,7 @@
     <link>https://georgekenison.github.io/</link>
       <atom:link href="https://georgekenison.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>George Kenison</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 06 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://georgekenison.github.io/media/icon_hu77e73f7cff5c696fd30270c2c33dd3bf_36783_512x512_fill_lanczos_center_3.png</url>
       <title>George Kenison</title>
@@ -13,11 +13,20 @@
     </image>
     
     <item>
+      <title>(Un)Solvable Loop Analysis</title>
+      <link>https://georgekenison.github.io/publication/amrollahi-2023-unsolvable/</link>
+      <pubDate>Tue, 06 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://georgekenison.github.io/publication/amrollahi-2023-unsolvable/</guid>
+      <description>&lt;p&gt;Extended version of the conference paper &lt;em&gt;Solving Invariant Generation for Unsolvable Loops&lt;/em&gt; published at SAS 2022 (&lt;a href=&#34;https://georgekenison.github.io/publication/amrollahi-2022-invariant/&#34;&gt;see here&lt;/a&gt;).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Summer Workshops (2023)</title>
       <link>https://georgekenison.github.io/post/2023workshops/</link>
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://georgekenison.github.io/post/2023workshops/</guid>
-      <description>&lt;p&gt;I am co-organizing two workshops in July 2023: WORReLL&#39;23  (&lt;a href=&#34;https://georgekenison.github.io/worrell/&#34;&gt;see here&lt;/a&gt;) and Autobóz 2023 (&lt;a href=&#34;https://autoboz.org/home-23&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;see here&lt;/a&gt;).&lt;/p&gt;
+      <description>&lt;p&gt;I am co-organising two workshops in July 2023: WORReLL&#39;23  (&lt;a href=&#34;https://georgekenison.github.io/worrell/&#34;&gt;see here&lt;/a&gt;) and Autobóz 2023 (&lt;a href=&#34;https://autoboz.org/home-23&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;see here&lt;/a&gt;).&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;worrell23&#34;&gt;WORReLL&#39;23&lt;/h3&gt;
 &lt;p&gt;WORRELL&#39;23 is a one-day satellite workshop of at ICALP&#39;23. 
