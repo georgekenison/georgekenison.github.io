@@ -470,7 +470,23 @@ We focus on the so-called finiteness property  which  means that  the set  of el
 &lt;h4 id=&#34;joël-ouakninehttpspeoplempi-swsorgjoel-mpi-sws-_tba_&#34;&gt;&lt;a href=&#34;https://people.mpi-sws.org/~joel/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Joël Ouaknine&lt;/a&gt; (MPI-SWS) &lt;em&gt;tba&lt;/em&gt;&lt;/h4&gt;
 &lt;h4 id=&#34;veronika-pillweinhttpsriscjkuatmveronika-pillwein-jku-_tba_&#34;&gt;&lt;a href=&#34;https://risc.jku.at/m/veronika-pillwein/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Veronika Pillwein&lt;/a&gt; (JKU) &lt;em&gt;tba&lt;/em&gt;&lt;/h4&gt;
 &lt;h4 id=&#34;igor-potapovhttpscgicsclivacukigorigor_potapovs_home_pagehomehtml-liverpool-_tba_&#34;&gt;&lt;a href=&#34;https://cgi.csc.liv.ac.uk/~igor/Igor_Potapovs_Home_Page/Home.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Igor Potapov&lt;/a&gt; (Liverpool) &lt;em&gt;tba&lt;/em&gt;&lt;/h4&gt;
-&lt;h4 id=&#34;mahsa-shirmohammadihttpswwwiriffrmahsa-cnrs-paris-_tba_&#34;&gt;&lt;a href=&#34;https://www.irif.fr/~mahsa/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mahsa Shirmohammadi&lt;/a&gt; (CNRS, Paris) &lt;em&gt;tba&lt;/em&gt;&lt;/h4&gt;
+&lt;h4 id=&#34;mahsa-shirmohammadihttpswwwiriffrmahsa-cnrs-paris-_the-membership-problem-for-hypergeometric-sequences_&#34;&gt;&lt;a href=&#34;https://www.irif.fr/~mahsa/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mahsa Shirmohammadi&lt;/a&gt; (CNRS, Paris) &lt;em&gt;The Membership Problem for Hypergeometric Sequences&lt;/em&gt;&lt;/h4&gt;
+&lt;p&gt;This talk is on the Membership problem for rational-valued
+hypergeometric sequences. Such a sequences $\langle u_n \rangle_{n=0}^{\infty}$
+satisfies a first-order linear recurrence relation with polynomial
+coefficients; that is,  a recurrence of the form $f(n)u_n =
+g(n)u_{n-1}$ where $f,g \in \mathbb{Z}[x]$.
+The Membership Problem asks, given a hypergeometric sequence
+$\langle u_n \rangle_{n=0}^{\infty}$ and a target value $t\in \mathbb{Q}$, determine whether
+$t$ occurs in the sequence.
+We give hints on recent decidability results of the Membership Problem
+under the assumption that either (i) $f$ and $g$ have distinct
+splitting fields, (ii) $f$ and $g$ split totally over
+$\mathbb{Q}$, and (iii) $f$ and $g$ are monic polynomials that both
+split over a quadratic extension of $\mathbb{Q}$.&lt;/p&gt;
+&lt;p&gt;This talk is based on two papers appearing in ISSAC&#39;22 and ISSAC&#39;23,
+and are in collaboration with George Kenison, Amaury Pouly, Klara
+Nosan, and  James Worrell.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;schedule&#34;&gt;Schedule&lt;/h2&gt;
 &lt;p&gt;To be announced&lt;/p&gt;
