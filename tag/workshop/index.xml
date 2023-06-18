@@ -84,7 +84,7 @@ We focus on the so-called finiteness property  which  means that  the set  of el
 &lt;h4 id=&#34;igor-potapovhttpscgicsclivacukigorigor_potapovs_home_pagehomehtml-liverpool-_tba_&#34;&gt;&lt;a href=&#34;https://cgi.csc.liv.ac.uk/~igor/Igor_Potapovs_Home_Page/Home.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Igor Potapov&lt;/a&gt; (Liverpool) &lt;em&gt;tba&lt;/em&gt;&lt;/h4&gt;
 &lt;h4 id=&#34;mahsa-shirmohammadihttpswwwiriffrmahsa-cnrs-paris-_the-membership-problem-for-hypergeometric-sequences_&#34;&gt;&lt;a href=&#34;https://www.irif.fr/~mahsa/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mahsa Shirmohammadi&lt;/a&gt; (CNRS, Paris) &lt;em&gt;The Membership Problem for Hypergeometric Sequences&lt;/em&gt;&lt;/h4&gt;
 &lt;p&gt;This talk is on the Membership problem for rational-valued
-hypergeometric sequences. Such a sequences $\langle u_n \rangle_{n=0}^{\infty}$
+hypergeometric sequences. Such sequences $\langle u_n \rangle_{n=0}^{\infty}$
 satisfies a first-order linear recurrence relation with polynomial
 coefficients; that is,  a recurrence of the form $f(n)u_n =
 g(n)u_{n-1}$ where $f,g \in \mathbb{Z}[x]$.
