@@ -76,22 +76,34 @@ We plan to celebrate with a birthday dinner on Sunday 09th July (the evening bef
 &lt;hr&gt;
 &lt;h2 id=&#34;confirmed-speakers-and-talks&#34;&gt;Confirmed Speakers and Talks&lt;/h2&gt;
 &lt;h4 id=&#34;nikhil-balajihttpssitesgooglecomviewnikhilbalajihome-iit-delhi-_on-the-complexity-of-the-sum-of-square-roots-problem_&#34;&gt;&lt;a href=&#34;https://sites.google.com/view/nikhilbalaji/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nikhil Balaji&lt;/a&gt; (IIT Delhi) &lt;em&gt;On the Complexity of the Sum of Square Roots Problem&lt;/em&gt;&lt;/h4&gt;
-&lt;p&gt;Given positive integers $a_1, a_2, \dots, a_n$ and $b_1, b_2, \dots, b_m$, the Sum of Square Roots
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-1&#34;&gt;
+  &lt;summary&gt;Abstract:&lt;/summary&gt;
+  &lt;p&gt;Given positive integers $a_1, a_2, \dots, a_n$ and $b_1, b_2, \dots, b_m$, the Sum of Square Roots
 problem (SSR) is the computational problem of checking if $\sqrt{a_1} + \sqrt{a_2} + \dots + \sqrt{a_n} &amp;gt;  \sqrt{b_1} + \sqrt{b_2} + \dots + \sqrt{b_m}$.
 It is an essential primitive in Computational Geometry where efficient algorithms for several geometric problems are known relative to SSR. 
 However the best-known complexity upper bound for SSR is in the Counting Hierarchy (CH), and no non-trivial lower bounds are known. Over the last two decades, SSR-hardness has emerged as a useful tool to capture the &amp;ldquo;numerical hardness&amp;rdquo; of problems, especially in Game Theory and Verification. In this talk, I will introduce a variant of SSR and show efficient &amp;ldquo;non-uniform&amp;rdquo; algorithms for this problem.&lt;/p&gt;
-&lt;h4 id=&#34;paul-bellhttpspcbellgithubio-keele-_tba_&#34;&gt;&lt;a href=&#34;https://pcbell.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paul Bell&lt;/a&gt; (Keele) &lt;em&gt;tba&lt;/em&gt;&lt;/h4&gt;
-&lt;h4 id=&#34;dmitry-chistikovhttpswarwickacukfacscidcspeopledmitry_chistikov-warwick-_tba_&#34;&gt;&lt;a href=&#34;https://warwick.ac.uk/fac/sci/dcs/people/dmitry_chistikov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dmitry Chistikov&lt;/a&gt; (Warwick) &lt;em&gt;tba&lt;/em&gt;&lt;/h4&gt;
+&lt;/details&gt;
+&lt;h4 id=&#34;paul-bellhttpspcbellgithubio-keele-_from-quantum-automata-to-quaternions-and-rational-pairing-functions_&#34;&gt;&lt;a href=&#34;https://pcbell.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paul Bell&lt;/a&gt; (Keele) &lt;em&gt;From Quantum Automata to Quaternions and Rational Pairing Functions&lt;/em&gt;&lt;/h4&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-2&#34;&gt;
+  &lt;summary&gt;Abstract:&lt;/summary&gt;
+  &lt;p&gt;We investigate some recent results on injectivity for Quantum Finite Automata. We call a QFA injective if the acceptance probability of every input word is unique. We show the undecidability of this problem by using tools and results from linear algebra, quaternions, number theory, and in particular rational polynomial pairing functions. We note a huge disparity in the number of required states to show undecidability depending on whether the initial state vector is rational or real algebraic. We will draw parallels with interesting questions for other matrix theoretic problems, and introduce some new research directions and open problems.&lt;/p&gt;
+&lt;/details&gt;
+&lt;h4 id=&#34;dmitry-chistikovhttpswarwickacukfacscidcspeopledmitry_chistikov-warwick-_globe-hopping_&#34;&gt;&lt;a href=&#34;https://warwick.ac.uk/fac/sci/dcs/people/dmitry_chistikov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dmitry Chistikov&lt;/a&gt; (Warwick) &lt;em&gt;Globe Hopping&lt;/em&gt;&lt;/h4&gt;
 &lt;h4 id=&#34;valérie-berthéhttpswwwiriffrberthe-cnrs-paris-_recursive-sequences-and-numeration_&#34;&gt;&lt;a href=&#34;https://www.irif.fr/~berthe/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Valérie Berthé&lt;/a&gt; (CNRS, Paris) &lt;em&gt;Recursive Sequences and Numeration&lt;/em&gt;&lt;/h4&gt;
-&lt;p&gt;In this lecture we revisit recursive sequences  from the view point  of numeration systems and their associated dynamical systems.
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-3&#34;&gt;
+  &lt;summary&gt;Abstract:&lt;/summary&gt;
+  &lt;p&gt;In this lecture we revisit recursive sequences  from the view point  of numeration systems and their associated dynamical systems.
 Linear recurrences allow indeed  the definition of  numerations for both integers and real numbers.
 We focus on the so-called finiteness property  which  means that  the set  of elements having a finite  expansion   forms a ring, and on  its numerous applications in arithmetics, aperiodic order,  fractal geometry etc.&lt;/p&gt;
+&lt;/details&gt;
 &lt;h4 id=&#34;florian-lucahttpswwwwitsaczastaffacademic-a-z-listinglflorianlucawitsacza-witwatersrand-_tba_&#34;&gt;&lt;a href=&#34;https://www.wits.ac.za/staff/academic-a-z-listing/l/florianlucawitsacza/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Florian Luca&lt;/a&gt; (Witwatersrand) &lt;em&gt;tba&lt;/em&gt;&lt;/h4&gt;
 &lt;h4 id=&#34;joël-ouakninehttpspeoplempi-swsorgjoel-mpi-sws-_tba_&#34;&gt;&lt;a href=&#34;https://people.mpi-sws.org/~joel/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Joël Ouaknine&lt;/a&gt; (MPI-SWS) &lt;em&gt;tba&lt;/em&gt;&lt;/h4&gt;
 &lt;h4 id=&#34;veronika-pillweinhttpsriscjkuatmveronika-pillwein-jku-_tba_&#34;&gt;&lt;a href=&#34;https://risc.jku.at/m/veronika-pillwein/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Veronika Pillwein&lt;/a&gt; (JKU) &lt;em&gt;tba&lt;/em&gt;&lt;/h4&gt;
 &lt;h4 id=&#34;igor-potapovhttpscgicsclivacukigorigor_potapovs_home_pagehomehtml-liverpool-_tba_&#34;&gt;&lt;a href=&#34;https://cgi.csc.liv.ac.uk/~igor/Igor_Potapovs_Home_Page/Home.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Igor Potapov&lt;/a&gt; (Liverpool) &lt;em&gt;tba&lt;/em&gt;&lt;/h4&gt;
 &lt;h4 id=&#34;mahsa-shirmohammadihttpswwwiriffrmahsa-cnrs-paris-_the-membership-problem-for-hypergeometric-sequences_&#34;&gt;&lt;a href=&#34;https://www.irif.fr/~mahsa/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mahsa Shirmohammadi&lt;/a&gt; (CNRS, Paris) &lt;em&gt;The Membership Problem for Hypergeometric Sequences&lt;/em&gt;&lt;/h4&gt;
-&lt;p&gt;This talk is on the Membership problem for rational-valued
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-4&#34;&gt;
+  &lt;summary&gt;Abstract:&lt;/summary&gt;
+  &lt;p&gt;&lt;p&gt;This talk is on the Membership problem for rational-valued
 hypergeometric sequences. Such sequences $\langle u_n \rangle_{n=0}^{\infty}$
 satisfies a first-order linear recurrence relation with polynomial
 coefficients; that is,  a recurrence of the form $f(n)u_n =
@@ -107,6 +119,8 @@ split over a quadratic extension of $\mathbb{Q}$.&lt;/p&gt;
 &lt;p&gt;This talk is based on two papers appearing in ISSAC&#39;22 and ISSAC&#39;23,
 and are in collaboration with George Kenison, Amaury Pouly, Klara
 Nosan, and  James Worrell.&lt;/p&gt;
+&lt;/p&gt;
+&lt;/details&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;schedule&#34;&gt;Schedule&lt;/h2&gt;
 &lt;p&gt;To be announced&lt;/p&gt;
