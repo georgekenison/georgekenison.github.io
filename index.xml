@@ -482,16 +482,23 @@ Linear recurrences allow indeed  the definition of  numerations for both integer
 We focus on the so-called finiteness property  which  means that  the set  of elements having a finite  expansion   forms a ring, and on  its numerous applications in arithmetics, aperiodic order,  fractal geometry etc.&lt;/p&gt;
 &lt;/details&gt;
 &lt;h4 id=&#34;florian-lucahttpswwwwitsaczastaffacademic-a-z-listinglflorianlucawitsacza-witwatersrand&#34;&gt;&lt;a href=&#34;https://www.wits.ac.za/staff/academic-a-z-listing/l/florianlucawitsacza/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Florian Luca&lt;/a&gt; (Witwatersrand)&lt;/h4&gt;
-&lt;p&gt;&lt;em&gt;tba&lt;/em&gt;&lt;/p&gt;
-&lt;h4 id=&#34;joël-ouakninehttpspeoplempi-swsorgjoel-mpi-sws&#34;&gt;&lt;a href=&#34;https://people.mpi-sws.org/~joel/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Joël Ouaknine&lt;/a&gt; (MPI-SWS)&lt;/h4&gt;
 &lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-4&#34;&gt;
+  &lt;summary&gt;&lt;em&gt;Twisted Rational Zeros of Linearly Recurrent Sequences&lt;/em&gt;&lt;/summary&gt;
+  &lt;p&gt;&lt;p&gt;Let $( T_n )_{n} \in \mathbb{Z}$ be the Tribonacci numbers given by $T_0=0$ and $T_1 = T_2$ with $T_0 = 0$ and $T_1 = T_2 =1$.
+Marques and Lengyel (2014) obtained a formula relating the $2$-adic valuation of $T_n$ with the $2$-adic valuation of a linear function of $n$ (which might be constant) according to the residue class of $n$ modulo $32$ and optimistically conjectured that a similar formula holds true for every prime $p$. 
+In the first part of the talk, we will see that their conjecture was indeed far too optimistic; in particular, it fails for all but seven primes below $600$. Along the way, we are led to consider a certain twisted rational zero of a linearly recurrent sequence. We prove that non-degenerate linearly recurrent sequences have only finitely many such twisted rational zeros, which may be seen as an extension of the Skolem&amp;ndash;Mahler&amp;ndash;Lech theorem. While our method is, in general, not effective, in some cases we can compute all such twisted rational zeros. In particular, returning to the Tribonacci sequence we show that its only twisted rational zeros are the integral ones $-17,-4,-1,0$ together with the rational non-integral ones $1/3$ and $-5/3$.&lt;/p&gt;
+&lt;p&gt;This is joint work with Y. Bilu, J. Nieuwveld, J. Ouaknine and J. Worrell.&lt;/p&gt;
+&lt;/p&gt;
+&lt;/details&gt;
+&lt;h4 id=&#34;joël-ouakninehttpspeoplempi-swsorgjoel-mpi-sws&#34;&gt;&lt;a href=&#34;https://people.mpi-sws.org/~joel/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Joël Ouaknine&lt;/a&gt; (MPI-SWS)&lt;/h4&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-5&#34;&gt;
   &lt;summary&gt;&lt;em&gt;Universal Skolem Sets&lt;/em&gt;&lt;/summary&gt;
   &lt;p&gt;&lt;p&gt;The Skolem Problem asks to determine whether a given integer linear recurrence sequence (such as the Fibonacci numbers) has a zero term. This problem, whose decidability has been open for many decades, arises across a wide range of topics in computer science, including loop termination, probabilistic model checking, weighted automata theory, and dynamical systems, amongst many others. Recently, a new line of attack to the Skolem Problem was initiated via the notion of a Universal Skolem Set: a set S of positive integers such that it is decidable whether a given linear recurrence sequence has a zero in S. I will present an overview of this approach.&lt;/p&gt;
 &lt;p&gt;This is joint work with Florian Luca, James Maynard, Armand Noubissie, and James Worrell.&lt;/p&gt;
 &lt;/p&gt;
 &lt;/details&gt;
 &lt;h4 id=&#34;veronika-pillweinhttpsriscjkuatmveronika-pillwein-jku&#34;&gt;&lt;a href=&#34;https://risc.jku.at/m/veronika-pillwein/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Veronika Pillwein&lt;/a&gt; (JKU)&lt;/h4&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-5&#34;&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-6&#34;&gt;
   &lt;summary&gt;&lt;em&gt;The Positivity Problem for Recurrent Sequences&lt;/em&gt;&lt;/summary&gt;
   &lt;p&gt;&lt;p&gt;Proving positivity of sequences that are defined by recurrences is very
 hard. Even when restricted to the seemingly simple class of sequences
@@ -509,7 +516,7 @@ succeeded.&lt;/p&gt;
 &lt;h4 id=&#34;igor-potapovhttpscgicsclivacukigorigor_potapovs_home_pagehomehtml-liverpool&#34;&gt;&lt;a href=&#34;https://cgi.csc.liv.ac.uk/~igor/Igor_Potapovs_Home_Page/Home.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Igor Potapov&lt;/a&gt; (Liverpool)&lt;/h4&gt;
 &lt;p&gt;&lt;em&gt;tba&lt;/em&gt;&lt;/p&gt;
 &lt;h4 id=&#34;mahsa-shirmohammadihttpswwwiriffrmahsa-cnrs-paris&#34;&gt;&lt;a href=&#34;https://www.irif.fr/~mahsa/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mahsa Shirmohammadi&lt;/a&gt; (CNRS, Paris)&lt;/h4&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-6&#34;&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-7&#34;&gt;
   &lt;summary&gt;&lt;em&gt;The Membership Problem for Hypergeometric Sequences&lt;/em&gt;&lt;/summary&gt;
   &lt;p&gt;&lt;p&gt;This talk is on the Membership problem for rational-valued
 hypergeometric sequences. Such sequences $\langle u_n \rangle_{n=0}^{\infty}$
