@@ -93,7 +93,7 @@ However the best-known complexity upper bound for SSR is in the Counting Hierarc
 &lt;/details&gt;
 &lt;h4 id=&#34;dmitry-chistikovhttpswarwickacukfacscidcspeopledmitry_chistikov-warwick&#34;&gt;&lt;a href=&#34;https://warwick.ac.uk/fac/sci/dcs/people/dmitry_chistikov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dmitry Chistikov&lt;/a&gt; (Warwick)&lt;/h4&gt;
 &lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-3&#34;&gt;
-  &lt;summary&gt;&lt;em&gt;Globe Hopping&lt;/em&gt;&lt;/summary&gt;
+  &lt;summary&gt;&lt;em&gt;Globe-Hopping&lt;/em&gt;&lt;/summary&gt;
   &lt;p&gt;&lt;p&gt;I will talk about the following geometric puzzle.
 Take a random point (&amp;ldquo;grasshopper&amp;rdquo;) from a set $L$ (&amp;ldquo;lawn&amp;rdquo;, on the plane
 or on the sphere) and move it by a fixed distance in a random direction,
