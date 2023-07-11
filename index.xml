@@ -460,7 +460,7 @@ We plan to celebrate with a birthday dinner on Sunday 09th July (the evening bef
 &lt;hr&gt;
 &lt;h2 id=&#34;speakers-and-talks&#34;&gt;Speakers and Talks&lt;/h2&gt;
 &lt;p&gt;(Click on a talk title for the abstract.)&lt;/p&gt;
-&lt;h4 target=&#34;_blank&#34; id=&#34;nikhil-balajihttpssitesgooglecomviewnikhilbalajihome-iit-delhi-slidesuploadsbalaji_slidespdf&#34;&gt;&lt;a href=&#34;https://sites.google.com/view/nikhilbalaji/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nikhil Balaji&lt;/a&gt; (IIT Delhi) &lt;a href=&#34;https://georgekenison.github.io/uploads/Balaji_slides.pdf&#34;&gt;(Slides)&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&#34;nikhil-balajihttpssitesgooglecomviewnikhilbalajihome-iit-delhi-emsp---font-size4-slidesuploadsbalaji_slidespdf-font&#34;&gt;&lt;a href=&#34;https://sites.google.com/view/nikhilbalaji/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nikhil Balaji&lt;/a&gt; (IIT Delhi)     &lt;font size=&#34;4&#34;&gt; &lt;a href=&#34;https://georgekenison.github.io/uploads/Balaji_slides.pdf&#34;&gt;[Slides]&lt;/a&gt; &lt;/font&gt;&lt;/h4&gt;
 &lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-1&#34;&gt;
   &lt;summary&gt;&lt;em&gt;On the Complexity of the Sum of Square Roots Problem&lt;/em&gt;&lt;/summary&gt;
   &lt;p&gt;Given positive integers $a_1, a_2, \dots, a_n$ and $b_1, b_2, \dots, b_m$, the Sum of Square Roots
@@ -473,7 +473,7 @@ However the best-known complexity upper bound for SSR is in the Counting Hierarc
   &lt;summary&gt;&lt;em&gt;From Quantum Automata to Quaternions and Rational Pairing Functions&lt;/em&gt;&lt;/summary&gt;
   &lt;p&gt;We investigate some recent results on injectivity for Quantum Finite Automata. We call a QFA injective if the acceptance probability of every input word is unique. We show the undecidability of this problem by using tools and results from linear algebra, quaternions, number theory, and in particular rational polynomial pairing functions. We note a huge disparity in the number of required states to show undecidability depending on whether the initial state vector is rational or real algebraic. We will draw parallels with interesting questions for other matrix theoretic problems, and introduce some new research directions and open problems.&lt;/p&gt;
 &lt;/details&gt;
-&lt;h4 target=&#34;_blank&#34; id=&#34;valérie-berthéhttpswwwiriffrberthe-cnrs-paris-slidesuploadsberthe_slidespdf&#34;&gt;&lt;a href=&#34;https://www.irif.fr/~berthe/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Valérie Berthé&lt;/a&gt; (CNRS, Paris) &lt;a href=&#34;https://georgekenison.github.io/uploads/Berthe_slides.pdf&#34;&gt;(Slides)&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&#34;valérie-berthéhttpswwwiriffrberthe-cnrs-paris-emsp---font-size4-slidesuploadsberthe_slidespdf-font&#34;&gt;&lt;a href=&#34;https://www.irif.fr/~berthe/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Valérie Berthé&lt;/a&gt; (CNRS, Paris)     &lt;font size=&#34;4&#34;&gt; &lt;a href=&#34;https://georgekenison.github.io/uploads/Berthe_slides.pdf&#34;&gt;[Slides]&lt;/a&gt; &lt;/font&gt;&lt;/h4&gt;
 &lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-3&#34;&gt;
   &lt;summary&gt;&lt;em&gt;Recursive Sequences and Numeration&lt;/em&gt;&lt;/summary&gt;
   &lt;p&gt;In this lecture we revisit recursive sequences  from the view point  of numeration systems and their associated dynamical systems.
@@ -497,7 +497,7 @@ of $\pi$, and if rational, then on the numerator in lowest terms.&lt;/p&gt;
 &lt;p&gt;Joint work with Olga Goulko, Adrian Kent, and Mike Paterson.&lt;/p&gt;
 &lt;/p&gt;
 &lt;/details&gt;
-&lt;h4 id=&#34;florian-lucahttpswwwwitsaczastaffacademic-a-z-listinglflorianlucawitsacza-witwatersrand&#34;&gt;&lt;a href=&#34;https://www.wits.ac.za/staff/academic-a-z-listing/l/florianlucawitsacza/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Florian Luca&lt;/a&gt; (Witwatersrand)&lt;/h4&gt;
+&lt;h4 id=&#34;florian-lucahttpswwwwitsaczastaffacademic-a-z-listinglflorianlucawitsacza-witwatersrand-emsp---font-size4-slidesuploadsluca_slidespdf-font&#34;&gt;&lt;a href=&#34;https://www.wits.ac.za/staff/academic-a-z-listing/l/florianlucawitsacza/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Florian Luca&lt;/a&gt; (Witwatersrand)     &lt;font size=&#34;4&#34;&gt; &lt;a href=&#34;https://georgekenison.github.io/uploads/Luca_slides.pdf&#34;&gt;[Slides]&lt;/a&gt; &lt;/font&gt;&lt;/h4&gt;
 &lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-5&#34;&gt;
   &lt;summary&gt;&lt;em&gt;Twisted Rational Zeros of Linearly Recurrent Sequences&lt;/em&gt;&lt;/summary&gt;
   &lt;p&gt;&lt;p&gt;Let $( T_n )_{n} \in \mathbb{Z}$ be the Tribonacci numbers.
@@ -506,7 +506,7 @@ In the first part of the talk, we will see that their conjecture was indeed far 
 &lt;p&gt;This is joint work with Y. Bilu, J. Nieuwveld, J. Ouaknine and J. Worrell.&lt;/p&gt;
 &lt;/p&gt;
 &lt;/details&gt;
-&lt;h4 id=&#34;joël-ouakninehttpspeoplempi-swsorgjoel-mpi-sws&#34;&gt;&lt;a href=&#34;https://people.mpi-sws.org/~joel/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Joël Ouaknine&lt;/a&gt; (MPI-SWS)&lt;/h4&gt;
+&lt;h4 id=&#34;joël-ouakninehttpspeoplempi-swsorgjoel-mpi-sws-emsp---font-size4-slidesuploadsouaknine_slidespdf-font&#34;&gt;&lt;a href=&#34;https://people.mpi-sws.org/~joel/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Joël Ouaknine&lt;/a&gt; (MPI-SWS)     &lt;font size=&#34;4&#34;&gt; &lt;a href=&#34;https://georgekenison.github.io/uploads/Ouaknine_slides.pdf&#34;&gt;[Slides]&lt;/a&gt; &lt;/font&gt;&lt;/h4&gt;
 &lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-6&#34;&gt;
   &lt;summary&gt;&lt;em&gt;Universal Skolem Sets&lt;/em&gt;&lt;/summary&gt;
   &lt;p&gt;&lt;p&gt;The Skolem Problem asks to determine whether a given integer linear recurrence sequence (such as the Fibonacci numbers) has a zero term. This problem, whose decidability has been open for many decades, arises across a wide range of topics in computer science, including loop termination, probabilistic model checking, weighted automata theory, and dynamical systems, amongst many others. Recently, a new line of attack to the Skolem Problem was initiated via the notion of a Universal Skolem Set: a set S of positive integers such that it is decidable whether a given linear recurrence sequence has a zero in S. I will present an overview of this approach.&lt;/p&gt;
