@@ -36,7 +36,7 @@
 &lt;p&gt;Recursively defined sequences are foundational objects of study in the computational sciences; they arise naturally in areas such as: the analysis of algorithms, weighted automata, loop termination, and probabilistic models.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;aim&#34;&gt;Aim&lt;/h2&gt;
-&lt;p&gt;The aim of WORReLL&#39;23 is to bring together researchers from the community and showcase cutting-edge research on the above topics.
+&lt;p&gt;The aim of WORReLL&#39;23 is to bring together researchers from the community and showcase cutting-edge research.
 The one-day workshop will also celebrate the research contributions of Professor James Worrell (also known as Ben). For context, Ben is giving an &lt;a href=&#34;https://icalp2023.cs.upb.de/invited-speakers/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;invited talk&lt;/a&gt; at ICALP this year.&lt;/p&gt;
 &lt;p&gt;Coincidentally, the workshop is a few days prior to Ben&amp;rsquo;s birthday.
 We plan to celebrate with a birthday dinner on Sunday 09th July (the evening before the workshop), so please take this into consideration for planning your travel to Paderborn.&lt;/p&gt;
@@ -76,32 +76,38 @@ We plan to celebrate with a birthday dinner on Sunday 09th July (the evening bef
 &lt;h2 id=&#34;participation&#34;&gt;Participation&lt;/h2&gt;
 &lt;p&gt;To participate in-person, please register for WORReLL&#39;23 through ICALP&amp;rsquo;s &lt;a href=&#34;https://icalp2023.cs.upb.de/registration/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;registration portal&lt;/a&gt;.  To participate remotely over Zoom, please contact the organisers for further details.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;speakers-and-talks&#34;&gt;Speakers and Talks&lt;/h2&gt;
-&lt;p&gt;(Click on a talk title for the abstract.)&lt;/p&gt;
-&lt;h4 id=&#34;nikhil-balajihttpssitesgooglecomviewnikhilbalajihome-iit-delhi-emsp---font-size4-slidesuploadsbalaji_slidespdf-font&#34;&gt;&lt;a href=&#34;https://sites.google.com/view/nikhilbalaji/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nikhil Balaji&lt;/a&gt; (IIT Delhi)     &lt;font size=&#34;4&#34;&gt; &lt;a href=&#34;https://georgekenison.github.io/uploads/Balaji_slides.pdf&#34;&gt;[Slides]&lt;/a&gt; &lt;/font&gt;&lt;/h4&gt;
+&lt;h2 id=&#34;speakers-talks-and-slides&#34;&gt;Speakers, Talks, and Slides&lt;/h2&gt;
+&lt;p&gt;(Click on a talk title for the abstract and slides.)&lt;/p&gt;
+&lt;h4 id=&#34;nikhil-balajihttpssitesgooglecomviewnikhilbalajihome-iit-delhi&#34;&gt;&lt;a href=&#34;https://sites.google.com/view/nikhilbalaji/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nikhil Balaji&lt;/a&gt; (IIT Delhi)&lt;/h4&gt;
 &lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-1&#34;&gt;
   &lt;summary&gt;&lt;em&gt;On the Complexity of the Sum of Square Roots Problem&lt;/em&gt;&lt;/summary&gt;
-  &lt;p&gt;Given positive integers $a_1, a_2, \dots, a_n$ and $b_1, b_2, \dots, b_m$, the Sum of Square Roots
+  &lt;p&gt;&lt;p&gt;Abstract: Given positive integers $a_1, a_2, \dots, a_n$ and $b_1, b_2, \dots, b_m$, the Sum of Square Roots
 problem (SSR) is the computational problem of checking if $$\sqrt{a_1} + \sqrt{a_2} + \dots + \sqrt{a_n} &amp;gt;  \sqrt{b_1} + \sqrt{b_2} + \dots + \sqrt{b_m}.$$
 It is an essential primitive in Computational Geometry where efficient algorithms for several geometric problems are known relative to SSR. 
 However the best-known complexity upper bound for SSR is in the Counting Hierarchy (CH), and no non-trivial lower bounds are known. Over the last two decades, SSR-hardness has emerged as a useful tool to capture the &amp;ldquo;numerical hardness&amp;rdquo; of problems, especially in Game Theory and Verification. In this talk, I will introduce a variant of SSR and show efficient &amp;ldquo;non-uniform&amp;rdquo; algorithms for this problem.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://georgekenison.github.io/uploads/Balaji_slides.pdf&#34;&gt;Slides: 🗎&lt;/a&gt;&lt;/p&gt;
+&lt;/p&gt;
 &lt;/details&gt;
 &lt;h4 id=&#34;paul-bellhttpspcbellgithubio-keele&#34;&gt;&lt;a href=&#34;https://pcbell.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paul Bell&lt;/a&gt; (Keele)&lt;/h4&gt;
 &lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-2&#34;&gt;
   &lt;summary&gt;&lt;em&gt;From Quantum Automata to Quaternions and Rational Pairing Functions&lt;/em&gt;&lt;/summary&gt;
-  &lt;p&gt;We investigate some recent results on injectivity for Quantum Finite Automata. We call a QFA injective if the acceptance probability of every input word is unique. We show the undecidability of this problem by using tools and results from linear algebra, quaternions, number theory, and in particular rational polynomial pairing functions. We note a huge disparity in the number of required states to show undecidability depending on whether the initial state vector is rational or real algebraic. We will draw parallels with interesting questions for other matrix theoretic problems, and introduce some new research directions and open problems.&lt;/p&gt;
+  &lt;p&gt;&lt;p&gt;Abstract: We investigate some recent results on injectivity for Quantum Finite Automata. We call a QFA injective if the acceptance probability of every input word is unique. We show the undecidability of this problem by using tools and results from linear algebra, quaternions, number theory, and in particular rational polynomial pairing functions. We note a huge disparity in the number of required states to show undecidability depending on whether the initial state vector is rational or real algebraic. We will draw parallels with interesting questions for other matrix theoretic problems, and introduce some new research directions and open problems.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://georgekenison.github.io/uploads/Bell_slides.pdf&#34;&gt;Slides: 🗎&lt;/a&gt;&lt;/p&gt;
+&lt;/p&gt;
 &lt;/details&gt;
-&lt;h4 id=&#34;valérie-berthéhttpswwwiriffrberthe-cnrs-paris-emsp---font-size4-slidesuploadsberthe_slidespdf-font&#34;&gt;&lt;a href=&#34;https://www.irif.fr/~berthe/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Valérie Berthé&lt;/a&gt; (CNRS, Paris)     &lt;font size=&#34;4&#34;&gt; &lt;a href=&#34;https://georgekenison.github.io/uploads/Berthe_slides.pdf&#34;&gt;[Slides]&lt;/a&gt; &lt;/font&gt;&lt;/h4&gt;
+&lt;h4 id=&#34;valérie-berthéhttpswwwiriffrberthe-cnrs-paris&#34;&gt;&lt;a href=&#34;https://www.irif.fr/~berthe/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Valérie Berthé&lt;/a&gt; (CNRS, Paris)&lt;/h4&gt;
 &lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-3&#34;&gt;
   &lt;summary&gt;&lt;em&gt;Recursive Sequences and Numeration&lt;/em&gt;&lt;/summary&gt;
-  &lt;p&gt;In this lecture we revisit recursive sequences  from the view point  of numeration systems and their associated dynamical systems.
+  &lt;p&gt;&lt;p&gt;Abstract: In this lecture we revisit recursive sequences  from the view point  of numeration systems and their associated dynamical systems.
 Linear recurrences allow indeed  the definition of  numerations for both integers and real numbers.
 We focus on the so-called finiteness property  which  means that  the set  of elements having a finite  expansion   forms a ring, and on  its numerous applications in arithmetics, aperiodic order,  fractal geometry etc.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://georgekenison.github.io/uploads/Berthe_slides.pdf&#34;&gt;Slides: 🗎&lt;/a&gt;&lt;/p&gt;
+&lt;/p&gt;
 &lt;/details&gt;
 &lt;h4 id=&#34;dmitry-chistikovhttpswarwickacukfacscidcspeopledmitry_chistikov-warwick&#34;&gt;&lt;a href=&#34;https://warwick.ac.uk/fac/sci/dcs/people/dmitry_chistikov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dmitry Chistikov&lt;/a&gt; (Warwick)&lt;/h4&gt;
 &lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-4&#34;&gt;
   &lt;summary&gt;&lt;em&gt;Globe-Hopping&lt;/em&gt;&lt;/summary&gt;
-  &lt;p&gt;&lt;p&gt;I will talk about the following geometric puzzle.
+  &lt;p&gt;&lt;p&gt;Abstract: I will talk about the following geometric puzzle.
 Take a random point (&amp;ldquo;grasshopper&amp;rdquo;) from a set $L$ (&amp;ldquo;lawn&amp;rdquo;, on the plane
 or on the sphere) and move it by a fixed distance in a random direction,
 once.
@@ -115,26 +121,28 @@ of $\pi$, and if rational, then on the numerator in lowest terms.&lt;/p&gt;
 &lt;p&gt;Joint work with Olga Goulko, Adrian Kent, and Mike Paterson.&lt;/p&gt;
 &lt;/p&gt;
 &lt;/details&gt;
-&lt;h4 id=&#34;florian-lucahttpswwwwitsaczastaffacademic-a-z-listinglflorianlucawitsacza-witwatersrand-emsp---font-size4-slidesuploadsluca_slidespdf-font&#34;&gt;&lt;a href=&#34;https://www.wits.ac.za/staff/academic-a-z-listing/l/florianlucawitsacza/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Florian Luca&lt;/a&gt; (Witwatersrand)     &lt;font size=&#34;4&#34;&gt; &lt;a href=&#34;https://georgekenison.github.io/uploads/Luca_slides.pdf&#34;&gt;[Slides]&lt;/a&gt; &lt;/font&gt;&lt;/h4&gt;
+&lt;h4 id=&#34;florian-lucahttpswwwwitsaczastaffacademic-a-z-listinglflorianlucawitsacza-witwatersrand&#34;&gt;&lt;a href=&#34;https://www.wits.ac.za/staff/academic-a-z-listing/l/florianlucawitsacza/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Florian Luca&lt;/a&gt; (Witwatersrand)&lt;/h4&gt;
 &lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-5&#34;&gt;
   &lt;summary&gt;&lt;em&gt;Twisted Rational Zeros of Linearly Recurrent Sequences&lt;/em&gt;&lt;/summary&gt;
-  &lt;p&gt;&lt;p&gt;Let $( T_n )_{n} \in \mathbb{Z}$ be the Tribonacci numbers.
+  &lt;p&gt;&lt;p&gt;Abstract: Let $( T_n )_{n} \in \mathbb{Z}$ be the Tribonacci numbers.
 Marques and Lengyel (2014) obtained a formula relating the $2$-adic valuation of $T_n$ with the $2$-adic valuation of a linear function of $n$ (which might be constant) according to the residue class of $n$ modulo $32$ and optimistically conjectured that a similar formula holds true for every prime $p$. 
 In the first part of the talk, we will see that their conjecture was indeed far too optimistic; in particular, it fails for all but seven primes below $600$. Along the way, we are led to consider a certain twisted rational zero of a linearly recurrent sequence. We prove that non-degenerate linearly recurrent sequences have only finitely many such twisted rational zeros, which may be seen as an extension of the Skolem&amp;ndash;Mahler&amp;ndash;Lech theorem. While our method is, in general, not effective, in some cases we can compute all such twisted rational zeros. In particular, returning to the Tribonacci sequence we show that its only twisted rational zeros are the integral ones $-17,-4,-1,0$ together with the rational non-integral ones $1/3$ and $-5/3$.&lt;/p&gt;
 &lt;p&gt;This is joint work with Y. Bilu, J. Nieuwveld, J. Ouaknine and J. Worrell.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://georgekenison.github.io/uploads/Luca_slides.pdf&#34;&gt;Slides: 🗎&lt;/a&gt;&lt;/p&gt;
 &lt;/p&gt;
 &lt;/details&gt;
-&lt;h4 id=&#34;joël-ouakninehttpspeoplempi-swsorgjoel-mpi-sws-emsp---font-size4-slidesuploadsouaknine_slidespdf-font&#34;&gt;&lt;a href=&#34;https://people.mpi-sws.org/~joel/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Joël Ouaknine&lt;/a&gt; (MPI-SWS)     &lt;font size=&#34;4&#34;&gt; &lt;a href=&#34;https://georgekenison.github.io/uploads/Ouaknine_slides.pdf&#34;&gt;[Slides]&lt;/a&gt; &lt;/font&gt;&lt;/h4&gt;
+&lt;h4 id=&#34;joël-ouakninehttpspeoplempi-swsorgjoel-mpi-sws&#34;&gt;&lt;a href=&#34;https://people.mpi-sws.org/~joel/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Joël Ouaknine&lt;/a&gt; (MPI-SWS)&lt;/h4&gt;
 &lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-6&#34;&gt;
   &lt;summary&gt;&lt;em&gt;Universal Skolem Sets&lt;/em&gt;&lt;/summary&gt;
-  &lt;p&gt;&lt;p&gt;The Skolem Problem asks to determine whether a given integer linear recurrence sequence (such as the Fibonacci numbers) has a zero term. This problem, whose decidability has been open for many decades, arises across a wide range of topics in computer science, including loop termination, probabilistic model checking, weighted automata theory, and dynamical systems, amongst many others. Recently, a new line of attack to the Skolem Problem was initiated via the notion of a Universal Skolem Set: a set S of positive integers such that it is decidable whether a given linear recurrence sequence has a zero in S. I will present an overview of this approach.&lt;/p&gt;
+  &lt;p&gt;&lt;p&gt;Abstract: The Skolem Problem asks to determine whether a given integer linear recurrence sequence (such as the Fibonacci numbers) has a zero term. This problem, whose decidability has been open for many decades, arises across a wide range of topics in computer science, including loop termination, probabilistic model checking, weighted automata theory, and dynamical systems, amongst many others. Recently, a new line of attack to the Skolem Problem was initiated via the notion of a Universal Skolem Set: a set S of positive integers such that it is decidable whether a given linear recurrence sequence has a zero in S. I will present an overview of this approach.&lt;/p&gt;
 &lt;p&gt;This is joint work with Florian Luca, James Maynard, Armand Noubissie, and James Worrell.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://georgekenison.github.io/uploads/Ouaknine_slides.pdf&#34;&gt;Slides: 🗎&lt;/a&gt;&lt;/p&gt;
 &lt;/p&gt;
 &lt;/details&gt;
 &lt;h4 id=&#34;veronika-pillweinhttpsriscjkuatmveronika-pillwein-jku&#34;&gt;&lt;a href=&#34;https://risc.jku.at/m/veronika-pillwein/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Veronika Pillwein&lt;/a&gt; (JKU)&lt;/h4&gt;
 &lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-7&#34;&gt;
   &lt;summary&gt;&lt;em&gt;The Positivity Problem for Recurrent Sequences&lt;/em&gt;&lt;/summary&gt;
-  &lt;p&gt;&lt;p&gt;Proving positivity of sequences that are defined by recurrences is very
+  &lt;p&gt;&lt;p&gt;Abstract: Proving positivity of sequences that are defined by recurrences is very
 hard. Even when restricted to the seemingly simple class of sequences
 defined by linear recurrences with constant coefficients (C-finite
 sequences), decidability of the positivity problem is only known for
@@ -150,12 +158,12 @@ succeeded.&lt;/p&gt;
 &lt;h4 id=&#34;igor-potapovhttpscgicsclivacukigorigor_potapovs_home_pagehomehtml-liverpool&#34;&gt;&lt;a href=&#34;https://cgi.csc.liv.ac.uk/~igor/Igor_Potapovs_Home_Page/Home.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Igor Potapov&lt;/a&gt; (Liverpool)&lt;/h4&gt;
 &lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-8&#34;&gt;
   &lt;summary&gt;&lt;em&gt;Reachability Problems on Matrices and Maps&lt;/em&gt;&lt;/summary&gt;
-  &lt;p&gt;A large number of naturally defined matrix problems are still unanswered, despite the long history of matrix theory.  In this presentation, I will discuss a number of challenging computational problems for matrix semigroups and their connections to matrix equations, iterative maps and linear recurrence sequences. Some of these problems are still unsolved but at the same time identified as reference points in the algorithmic analysis of reachability problems. The cornerstones of these reachability problems are in the synergy of the questions in mathematics and computer science: computability, automata theory, matrix theory, combinatorics, abstract algebra, number theory, etc. The main objective of future research is in developing new concepts and methods combining symbolic and numerical techniques as well as unifying the results in automata, computability, number and matrix theories.&lt;/p&gt;
+  &lt;p&gt;Abstract: A large number of naturally defined matrix problems are still unanswered, despite the long history of matrix theory.  In this presentation, I will discuss a number of challenging computational problems for matrix semigroups and their connections to matrix equations, iterative maps and linear recurrence sequences. Some of these problems are still unsolved but at the same time identified as reference points in the algorithmic analysis of reachability problems. The cornerstones of these reachability problems are in the synergy of the questions in mathematics and computer science: computability, automata theory, matrix theory, combinatorics, abstract algebra, number theory, etc. The main objective of future research is in developing new concepts and methods combining symbolic and numerical techniques as well as unifying the results in automata, computability, number and matrix theories.&lt;/p&gt;
 &lt;/details&gt;
 &lt;h4 id=&#34;mahsa-shirmohammadihttpswwwiriffrmahsa-cnrs-paris&#34;&gt;&lt;a href=&#34;https://www.irif.fr/~mahsa/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mahsa Shirmohammadi&lt;/a&gt; (CNRS, Paris)&lt;/h4&gt;
 &lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-9&#34;&gt;
   &lt;summary&gt;&lt;em&gt;The Membership Problem for Hypergeometric Sequences&lt;/em&gt;&lt;/summary&gt;
-  &lt;p&gt;&lt;p&gt;This talk is on the Membership problem for rational-valued
+  &lt;p&gt;&lt;p&gt;Abstract: This talk is on the Membership problem for rational-valued
 hypergeometric sequences. Such sequences $\langle u_n \rangle_{n=0}^{\infty}$
 satisfies a first-order linear recurrence relation with polynomial
 coefficients; that is,  a recurrence of the form $f(n)u_n =
