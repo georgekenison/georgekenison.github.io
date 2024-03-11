@@ -5,12 +5,20 @@
     <link>https://georgekenison.github.io/publication/</link>
       <atom:link href="https://georgekenison.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 06 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 11 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://georgekenison.github.io/media/icon_hu77e73f7cff5c696fd30270c2c33dd3bf_36783_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://georgekenison.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Linear Loop Synthesis for Quadratic Invariants</title>
+      <link>https://georgekenison.github.io/publication/hitarth-2024-loop/</link>
+      <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://georgekenison.github.io/publication/hitarth-2024-loop/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>(Un)Solvable Loop Analysis</title>
