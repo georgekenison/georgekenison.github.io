@@ -5,12 +5,20 @@
     <link>https://georgekenison.github.io/publication/</link>
       <atom:link href="https://georgekenison.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 11 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 11 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://georgekenison.github.io/media/icon_hu77e73f7cff5c696fd30270c2c33dd3bf_36783_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://georgekenison.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>The Threshold Problem for Hypergeometric Sequences with Quadratic Parameters</title>
+      <link>https://georgekenison.github.io/publication/kenison-2024-threshold/</link>
+      <pubDate>Thu, 11 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://georgekenison.github.io/publication/kenison-2024-threshold/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Linear Loop Synthesis for Quadratic Invariants</title>
@@ -50,14 +58,6 @@
       <link>https://georgekenison.github.io/publication/kenison-2023-loop/</link>
       <pubDate>Tue, 14 Feb 2023 00:00:00 +0000</pubDate>
       <guid>https://georgekenison.github.io/publication/kenison-2023-loop/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Membership and Threshold Problems for Hypergeometric Sequences with Quadratic Parameters</title>
-      <link>https://georgekenison.github.io/publication/kenison-2022-hypergeometric/</link>
-      <pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://georgekenison.github.io/publication/kenison-2022-hypergeometric/</guid>
       <description></description>
     </item>
     
