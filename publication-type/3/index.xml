@@ -5,21 +5,12 @@
     <link>https://georgekenison.github.io/publication-type/3/</link>
       <atom:link href="https://georgekenison.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 06 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 22 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://georgekenison.github.io/media/icon_hu77e73f7cff5c696fd30270c2c33dd3bf_36783_512x512_fill_lanczos_center_3.png</url>
       <title>3</title>
       <link>https://georgekenison.github.io/publication-type/3/</link>
     </image>
-    
-    <item>
-      <title>(Un)Solvable Loop Analysis</title>
-      <link>https://georgekenison.github.io/publication/amrollahi-2023-unsolvable/</link>
-      <pubDate>Tue, 06 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://georgekenison.github.io/publication/amrollahi-2023-unsolvable/</guid>
-      <description>&lt;p&gt;Extended version of the conference paper &lt;em&gt;Solving Invariant Generation for Unsolvable Loops&lt;/em&gt; published at SAS 2022 (&lt;a href=&#34;https://georgekenison.github.io/publication/amrollahi-2022-invariant/&#34;&gt;see here&lt;/a&gt;).&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>On Inequality Decision Problems for Low-Order Holonomic Sequences</title>
