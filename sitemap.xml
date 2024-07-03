@@ -2,15 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://georgekenison.github.io/publication-type/1/</loc>
+    <lastmod>2024-07-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://georgekenison.github.io/tag/decision-problems/</loc>
+    <lastmod>2024-07-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://georgekenison.github.io/</loc>
+    <lastmod>2024-07-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://georgekenison.github.io/tag/hypergeometric-sequences/</loc>
+    <lastmod>2024-07-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://georgekenison.github.io/tag/membership-problem/</loc>
+    <lastmod>2024-07-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://georgekenison.github.io/publication_types/</loc>
+    <lastmod>2024-07-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://georgekenison.github.io/publication/</loc>
+    <lastmod>2024-07-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://georgekenison.github.io/tags/</loc>
+    <lastmod>2024-07-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://georgekenison.github.io/publication/kenison-2024-threshold/</loc>
+    <lastmod>2024-07-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://georgekenison.github.io/tag/threshold-problem/</loc>
+    <lastmod>2024-07-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://georgekenison.github.io/publication/amrollahi-2023-unsolvable/</loc>
     <lastmod>2024-06-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://georgekenison.github.io/publication-type/2/</loc>
-    <lastmod>2024-06-11T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://georgekenison.github.io/</loc>
     <lastmod>2024-06-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -26,44 +62,8 @@
     <lastmod>2024-06-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://georgekenison.github.io/publication_types/</loc>
-    <lastmod>2024-06-11T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://georgekenison.github.io/publication/</loc>
-    <lastmod>2024-06-11T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://georgekenison.github.io/tags/</loc>
-    <lastmod>2024-06-11T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://georgekenison.github.io/tag/unsolvable-loops/</loc>
     <lastmod>2024-06-11T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://georgekenison.github.io/publication-type/1/</loc>
-    <lastmod>2024-04-11T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://georgekenison.github.io/tag/decision-problems/</loc>
-    <lastmod>2024-04-11T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://georgekenison.github.io/tag/hypergeometric-sequences/</loc>
-    <lastmod>2024-04-11T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://georgekenison.github.io/tag/membership-problem/</loc>
-    <lastmod>2024-04-11T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://georgekenison.github.io/publication/kenison-2024-threshold/</loc>
-    <lastmod>2024-04-11T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://georgekenison.github.io/tag/threshold-problem/</loc>
-    <lastmod>2024-04-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://georgekenison.github.io/tag/diophantine-equations/</loc>
