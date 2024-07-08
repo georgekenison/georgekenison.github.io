@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>computational complexity | George Kenison</title>
+    <link>https://georgekenison.github.io/tag/computational-complexity/</link>
+      <atom:link href="https://georgekenison.github.io/tag/computational-complexity/index.xml" rel="self" type="application/rss+xml" />
+    <description>computational complexity</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 06 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://georgekenison.github.io/media/icon_hu77e73f7cff5c696fd30270c2c33dd3bf_36783_512x512_fill_lanczos_center_3.png</url>
+      <title>computational complexity</title>
+      <link>https://georgekenison.github.io/tag/computational-complexity/</link>
+    </image>
+    
+    <item>
+      <title>Determination Problems for Orbit Closures and Matrix Groups</title>
+      <link>https://georgekenison.github.io/publication/aitelmanssour-2024-determination/</link>
+      <pubDate>Sat, 06 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://georgekenison.github.io/publication/aitelmanssour-2024-determination/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
