@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Algebraic Invariant | George Kenison</title>
+    <link>https://georgekenison.github.io/tag/algebraic-invariant/</link>
+      <atom:link href="https://georgekenison.github.io/tag/algebraic-invariant/index.xml" rel="self" type="application/rss+xml" />
+    <description>Algebraic Invariant</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 12 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://georgekenison.github.io/media/icon_hu77e73f7cff5c696fd30270c2c33dd3bf_36783_512x512_fill_lanczos_center_3.png</url>
+      <title>Algebraic Invariant</title>
+      <link>https://georgekenison.github.io/tag/algebraic-invariant/</link>
+    </image>
+    
+    <item>
+      <title>Simple Linear Loops: Algebraic Invariants and Applications</title>
+      <link>https://georgekenison.github.io/publication/aitelmanssour-2024-loops/</link>
+      <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://georgekenison.github.io/publication/aitelmanssour-2024-loops/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

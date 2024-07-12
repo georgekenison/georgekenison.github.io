@@ -5,12 +5,20 @@
     <link>https://georgekenison.github.io/publication-type/3/</link>
       <atom:link href="https://georgekenison.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 06 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 12 Jul 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://georgekenison.github.io/media/icon_hu77e73f7cff5c696fd30270c2c33dd3bf_36783_512x512_fill_lanczos_center_3.png</url>
       <title>3</title>
       <link>https://georgekenison.github.io/publication-type/3/</link>
     </image>
+    
+    <item>
+      <title>Simple Linear Loops: Algebraic Invariants and Applications</title>
+      <link>https://georgekenison.github.io/publication/aitelmanssour-2024-loops/</link>
+      <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://georgekenison.github.io/publication/aitelmanssour-2024-loops/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Determination Problems for Orbit Closures and Matrix Groups</title>
