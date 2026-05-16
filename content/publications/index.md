@@ -8,10 +8,12 @@ cascade:
   showTableOfContents: false
   showDate: false
   showAuthor: true
+  
+  summary: Research papers, publications, and preprints
 ---
 
 
-## Peer-Reviewed Papers in Conference Proceedings
+## Peer-Reviewed papers in conference proceedings
 
  - **On Word Representations and Embeddings in Complex Matrices.** {{< lbadge text="arXiv" url="https://doi.org/10.48550/arXiv.2604.15386" >}}   (with Paul C. Bell, Reino Niskanen, Igor Potapov, and Pavel Semukhin). In: *Proceedings of the International Conference on Developments in Language Theory,* DLT 2026.
  
@@ -38,7 +40,7 @@ cascade:
   
   
   
-## Peer-Reviewed Papers in Journals
+## Peer-reviewed articles in journals
 
  - **Determination Problems for Orbit Closures and Matrix Groups.** {{< lbadge text="DOI" url="https://doi.org/10.1145/3776698" >}}
 (with Rida Ait El Manssour, Mahsa Shirmohammadi, Anton Varonka, and James Worrell). In: *Proc. ACM Program. Lang.,* 10 POPL, pp. 1615--1640.
