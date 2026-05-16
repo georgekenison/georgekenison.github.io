@@ -17,7 +17,6 @@
 #    weight = 1
 
 [[main]]
-    pre = "home"
     name = "Home"
     url = "/"
     weight = 1
@@ -33,7 +32,7 @@
   weight = 60
 
 [[main]]
-  name = "Slides & Notes"
+  name = "Slides and Notes"
   pageRef = "talks"
   weight = 80
 
