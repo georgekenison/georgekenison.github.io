@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Asymptotic Properties of Groups on George Kenison</title>
+    <link>//localhost:1313/tags/asymptotic-properties-of-groups/</link>
+    <description>Recent content in Asymptotic Properties of Groups on George Kenison</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 George Kenison</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/asymptotic-properties-of-groups/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Orbit counting in conjugacy classes for free groups acting on trees</title>
+      <link>//localhost:1313/publications/kenison-2015-orbit/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/publications/kenison-2015-orbit/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

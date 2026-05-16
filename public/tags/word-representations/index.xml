@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Word Representations on George Kenison</title>
+    <link>//localhost:1313/tags/word-representations/</link>
+    <description>Recent content in Word Representations on George Kenison</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 George Kenison</copyright>
+    <lastBuildDate>Sat, 14 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/word-representations/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>On Word Representations and Embeddings in Complex Matrices</title>
+      <link>//localhost:1313/publications/bell-2026-words/</link>
+      <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/publications/bell-2026-words/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

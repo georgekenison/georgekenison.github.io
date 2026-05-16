@@ -1,0 +1,67 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+
+title = "George Kenison"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  logo = "img/logo.png"
+  description = "George Kenison"
+  # copyright = "Copy, _right?_ :thinking_face:"
+  dateFormat = "2 January 2006"
+
+[params.author]
+  name = "George Kenison"
+  image = "img/avatar.jpg"
+  headline = "Assistant Professor in Computer Science at Maynooth University"
+  # bio = "Assistant Professor in Computer Science"
+  links = [
+  	{ email = "mailto:george.kenison@maynooth.ie" },
+  #   { link = "https://link-to-some-website.com/" },
+  #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
+  #   { apple = "https://www.apple.com" },
+  #   { blogger = "https://username.blogspot.com/" },
+  #   { codepen = "https://codepen.io/username" },
+	{ arXiv = "https://arxiv.org/search/math?searchtype=author&query=Kenison%2C+G"},
+	{ dblp = "https://dblp.org/pid/267/5393"},
+  #   { dev = "https://dev.to/username" },
+  #   { discord = "https://discord.gg/invitecode" },
+  #   { dribbble = "https://dribbble.com/username" },
+  #   { facebook = "https://facebook.com/username" },
+  #   { flickr = "https://www.flickr.com/photos/username/" },
+  #   { foursquare = "https://foursquare.com/username" },
+  	{ github = "https://github.com/georgekenison" },
+  #   { gitlab = "https://gitlab.com/username" },
+  	{ google-scholar = "https://scholar.google.com/citations?user=pkhgzFAAAAAJ&hl=en" },
+  #   { hashnode = "https://username.hashnode.dev" },
+  #   { instagram = "https://instagram.com/username" },
+  #   { keybase = "https://keybase.io/username" },
+  #   { kickstarter = "https://www.kickstarter.com/profile/username" },
+  #   { lastfm = "https://lastfm.com/user/username" },
+  #   { linkedin = "https://linkedin.com/in/username" },
+  #   { mastodon = "https://mastodon.instance/@username" },
+  #   { medium = "https://medium.com/username" },
+  #   { microsoft = "https://www.microsoft.com/" },
+  	{ orcid = "https://orcid.org/0000-0002-7661-7061" },
+  #   { patreon = "https://www.patreon.com/username" },
+  #   { pinterest = "https://pinterest.com/username" },
+  #   { reddit = "https://reddit.com/user/username" },
+  #   { researchgate = "https://www.researchgate.net/profile/username" },
+  #   { slack = "https://workspace.url/team/userid" },
+  #   { snapchat = "https://snapchat.com/add/username" },
+  #   { soundcloud = "https://soundcloud.com/username" },
+  #   { stack-overflow = "https://stackoverflow.com/users/userid/username" },
+  #   { steam = "https://steamcommunity.com/profiles/userid" },
+  #   { telegram = "https://t.me/username" },
+  #   { tiktok = "https://tiktok.com/@username" },
+  #   { tumblr = "https://username.tumblr.com" },
+  #   { twitch = "https://twitch.tv/username" },
+  #   { twitter = "https://twitter.com/username" },
+  #   { whatsapp = "https://wa.me/phone-number" },
+  #   { youtube = "https://youtube.com/username" },
+  #   { ko-fi = "https://ko-fi.com/username" },
+	{ cv = "uploads/CV.pdf" },
+  ]

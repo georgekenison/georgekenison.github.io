@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. Varonka on George Kenison</title>
+    <link>//localhost:1313/authors/a.-varonka/</link>
+    <description>Recent content in A. Varonka on George Kenison</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 George Kenison</copyright>
+    <lastBuildDate>Sun, 12 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/authors/a.-varonka/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Simple Linear Loops: Algebraic Invariants and Applications</title>
+      <link>//localhost:1313/publications/aitelmanssour-2024-loops/</link>
+      <pubDate>Sun, 12 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/publications/aitelmanssour-2024-loops/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Linear Loop Synthesis for Quadratic Invariants</title>
+      <link>//localhost:1313/publications/hitarth-2024-loop/</link>
+      <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/publications/hitarth-2024-loop/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>From Polynomial Invariants to Linear Loops</title>
+      <link>//localhost:1313/publications/kenison-2023-loop/</link>
+      <pubDate>Tue, 14 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/publications/kenison-2023-loop/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

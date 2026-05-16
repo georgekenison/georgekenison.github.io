@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. Shirmohammadi on George Kenison</title>
+    <link>//localhost:1313/authors/m.-shirmohammadi/</link>
+    <description>Recent content in M. Shirmohammadi on George Kenison</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 George Kenison</copyright>
+    <lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/authors/m.-shirmohammadi/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Determination Problems for Orbit Closures and Matrix Groups</title>
+      <link>//localhost:1313/publications/aitelmanssour-2024-determination/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/publications/aitelmanssour-2024-determination/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>On the growth of hypergeometric sequences</title>
+      <link>//localhost:1313/publications/kenison-2025-membership/</link>
+      <pubDate>Fri, 25 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/publications/kenison-2025-membership/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Simple Linear Loops: Algebraic Invariants and Applications</title>
+      <link>//localhost:1313/publications/aitelmanssour-2024-loops/</link>
+      <pubDate>Sun, 12 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/publications/aitelmanssour-2024-loops/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>The Membership Problem for Hypergeometric Sequences with Quadratic Parameters</title>
+      <link>//localhost:1313/publications/kenison-2023-hypergeometric/</link>
+      <pubDate>Sun, 05 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/publications/kenison-2023-hypergeometric/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

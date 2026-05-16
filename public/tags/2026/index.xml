@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2026 on George Kenison</title>
+    <link>//localhost:1313/tags/2026/</link>
+    <description>Recent content in 2026 on George Kenison</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 George Kenison</copyright>
+    <lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/2026/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Determination Problems for Orbit Closures and Matrix Groups</title>
+      <link>//localhost:1313/publications/aitelmanssour2026orbit/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/publications/aitelmanssour2026orbit/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Rida Ait El Manssour, George Kenison, Mahsa Shirmohammadi, Anton Varonka, James Worrell&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Venue:&lt;/strong&gt; &lt;em&gt;Proc. ACM Program. Lang.&lt;/em&gt; (2026)&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href=&#34;https://doi.org10.48550/arXiv.2407.04626&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;10.48550/arXiv.2407.04626&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>On Word Representations and Embeddings in Complex Matrices</title>
+      <link>//localhost:1313/publications/bell2026words/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/publications/bell2026words/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Paul C. Bell, George Kenison, Reino Niskanen, Igor Potapov, Pavel Semukhin&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Venue:&lt;/strong&gt; &lt;em&gt;Proceedings of the International Conference on Developments in Language Theory, DLT 2026&lt;/em&gt; (2026)&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href=&#34;https://doi.org10.48550/arXiv.2604.15386&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;10.48550/arXiv.2604.15386&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

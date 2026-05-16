@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About Me on George Kenison</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content in About Me on George Kenison</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 George Kenison</copyright>
+    <lastBuildDate>Fri, 08 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Decision Problems, Recurrence Sequences, and Continued Fractions</title>
+      <link>//localhost:1313/talks/202605warsawsimons/</link>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/talks/202605warsawsimons/</guid>
+      <description>Mini-course at the Simons Semester: Continued fractions, fractals, ergodic theory and dynamics held at the Institute of Mathematics of the Polish Academy of Sciences</description>
+      
+    </item>
+    
+    <item>
+      <title>Determination Problems for Orbit Closures and Matrix Groups</title>
+      <link>//localhost:1313/talks/2026poplrennes/</link>
+      <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/talks/2026poplrennes/</guid>
+      <description>Presentation slides for POPL 2026</description>
+      
+    </item>
+    
+    <item>
+      <title>Loop Invariants and Algebraic Reasoning</title>
+      <link>//localhost:1313/event/loopinvariants/</link>
+      <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/event/loopinvariants/</guid>
+      <description>Workshop On Loop Invariants and Algebraic Reasoning</description>
+      
+    </item>
+    
+    <item>
+      <title>Autobóz 2023</title>
+      <link>//localhost:1313/event/autoboz2023/</link>
+      <pubDate>Sun, 16 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/event/autoboz2023/</guid>
+      <description>Research camp on Logic, Automata, and Games</description>
+      
+    </item>
+    
+    <item>
+      <title>WORReLL</title>
+      <link>//localhost:1313/event/worrell/</link>
+      <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/event/worrell/</guid>
+      <description>Workshop On Reachability, Recurrences, and Loops</description>
+      
+    </item>
+    
+    <item>
+      <title>Publications and Preprints</title>
+      <link>//localhost:1313/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/publications/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;Peer-Reviewed Papers in Conference Proceedings&#xD;&#xA;    &lt;div id=&#34;peer-reviewed-papers-in-conference-proceedings&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xD;&#xA;    &#xD;&#xA;    &lt;span&#xD;&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xD;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#peer-reviewed-papers-in-conference-proceedings&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xD;&#xA;    &lt;/span&gt;&#xD;&#xA;    &#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;On Word Representations and Embeddings in Complex Matrices.&lt;/strong&gt; &lt;a href=&#34;https://doi.org/10.48550/arXiv.2604.15386&#34; class=&#34;inline-block no-underline&#34;&gt;&#xD;&#xA;    &lt;span class=&#34;inline-block align-middle rounded-md bg-primary-100 px-2 py-0.5 text-xs font-semibold text-neutral-800 dark:bg-primary-900 dark:text-neutral-100 hover:bg-primary-200 dark:hover:bg-primary-800 transition-colors&#34;&gt;&#xD;&#xA;        arXiv&#xD;&#xA;    &lt;/span&gt;&#xD;&#xA;&lt;/a&gt;&#xD;&#xA;   (with Paul C. Bell, Reino Niskanen, Igor Potapov, and Pavel Semukhin). In: &lt;em&gt;Proceedings of the International Conference on Developments in Language Theory,&lt;/em&gt; DLT 2026.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;The Threshold Problem for Hypergeometric Sequences with Quadratic Parameters.&lt;/strong&gt; &lt;a href=&#34;https://doi.org/10.4230/LIPIcs.ICALP.2024.145&#34; class=&#34;inline-block no-underline&#34;&gt;&#xD;&#xA;    &lt;span class=&#34;inline-block align-middle rounded-md bg-primary-100 px-2 py-0.5 text-xs font-semibold text-neutral-800 dark:bg-primary-900 dark:text-neutral-100 hover:bg-primary-200 dark:hover:bg-primary-800 transition-colors&#34;&gt;&#xD;&#xA;        DOI&#xD;&#xA;    &lt;/span&gt;&#xD;&#xA;&lt;/a&gt;&#xD;&#xA; In: &lt;em&gt;51st International Colloquium on Automata, Languages, and Programming,&lt;/em&gt; ICALP 2024.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
