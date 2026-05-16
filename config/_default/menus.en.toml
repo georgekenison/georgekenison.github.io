@@ -55,7 +55,6 @@
 [[main]]
 name = "CV"
 url = "uploads/CV.pdf"
-pre = "document"
 weight = 100
 
 

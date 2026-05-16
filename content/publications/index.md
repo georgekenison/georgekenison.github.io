@@ -33,7 +33,7 @@ cascade:
  
  - **On Positivity and Minimality for Second-Order Holonomic Sequences.** {{< lbadge text="DOI" url="https://doi.org/10.4230/LIPIcs.MFCS.2021.67" >}} (with Oleksiy Klurman, Engel Lefaucheux, Florian Luca, Pieter Moree, Joël Ouaknine, Markus A. Whiteland, and James Worrell). In: *International Symposium on Mathematical Foundations of Computer Science,* MFCS 2021.
 
- - **On the Skolem Problem and Prime Powers.** {{< lbadge text="DOI" url="https://doi.org/10.1145/3373207.3404036" >}} (with Richard Lipton, Joël Ouaknine, and James Worrell). In: *Proceedings of the International Symposium on Symbolic and Algebraic Computation,* ISSAC 2020. 
+ - **On the Skolem Problem and Prime Powers.** {{< lbadge text="DOI" url="https://doi.org/10.1145/3373207.3404036" >}}  (with Richard Lipton, Joël Ouaknine, and James Worrell). In: *Proceedings of the International Symposium on Symbolic and Algebraic Computation,* ISSAC 2020. 
   
   
   
