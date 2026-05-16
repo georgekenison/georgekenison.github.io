@@ -1,4 +1,4 @@
-# .github/workflows/gh-pages.yml
+# .github/workflows/gh-pages.yml v 2026/05/16
 
 name: GitHub Pages
 
@@ -9,26 +9,32 @@ on:
 
 jobs:
   build-deploy:
-    runs-on: ubuntu-24.04
+    runs-on: ubuntu-latest # Automatically uses the best stable runner
+    
+    # CRUCIAL: Grants the bot permission to push changes to your repository
+    permissions:
+      contents: write
+
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4 # Upgraded to v4 for compatibility
         with:
           submodules: true
           fetch-depth: 0
 
       - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
+        uses: peaceiris/actions-hugo@v3 # Upgraded to v3
         with:
           hugo-version: "latest"
+          extended: true # Essential for Blowfish and themes using SCSS
 
       - name: Build
         run: hugo --minify
 
       - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
+        uses: peaceiris/actions-gh-pages@v4 # Upgraded to v4 to fix authentication & Node issues
         if: ${{ github.ref == 'refs/heads/main' }}
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
