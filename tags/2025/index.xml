@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2025 on George Kenison</title>
+    <link>//localhost:1313/tags/2025/</link>
+    <description>Recent content in 2025 on George Kenison</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 George Kenison</copyright>
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/2025/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Simple Linear Loops: Algebraic Invariants and Applications</title>
+      <link>//localhost:1313/publications/aitelmanssour2025loops/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/publications/aitelmanssour2025loops/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Rida Ait El Manssour, George Kenison, Mahsa Shirmohammadi, Anton Varonka&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Venue:&lt;/strong&gt; &lt;em&gt;Proc. ACM Program. Lang.&lt;/em&gt; (2025)&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href=&#34;https://doi.org10.1145/3704862&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;10.1145/3704862&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
