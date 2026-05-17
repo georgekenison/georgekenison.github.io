@@ -6,6 +6,8 @@ theme = "blowfish"
 # baseURL = https://georgekenison.github.io/
 defaultContentLanguage = "en"
 
+enableEmoji = true
+
 enableRobotsTXT = true
 [pagination]
   pagerSize = 20
@@ -14,7 +16,6 @@ summaryLength = 30
 buildDrafts = false
 buildFuture = false
 
-enableEmoji = true
 
 # googleAnalytics = "G-XXXXXXXXX"
 

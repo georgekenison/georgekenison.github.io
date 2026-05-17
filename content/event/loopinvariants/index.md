@@ -4,6 +4,7 @@ summary: "Workshop On Loop Invariants and Algebraic Reasoning"
 date: 2025-07-07
 showDate: true
 layout: page
+enableEmoji: true
 
 
 # Blowfish utilizes a direct string for addresses
@@ -26,8 +27,6 @@ tags:
   - "Workshop"
 ---
 
-{{< katex >}}
-
 ## Aim
 
 Reasoning about loops is a fundamental task in program analysis and verification. To this end, loop invariants are an indispensable tool. They help both to establish safety properties (e.g., proofs of non-reachability) and liveness properties (e.g., as supporting invariants in termination proofs). Beyer et al. [[VMCAI 2007]](https://link.springer.com/chapter/10.1007/978-3-540-69738-1_27) go so far as to call the problem of automatic invariant generation "the most important task in program verification."
@@ -36,13 +35,13 @@ There has been a resurgence of interest in computing the polynomial invariants f
 
 This workshop aims to span the divide between the aforementioned directions and bring together researchers from both communities.
 
----
+------------------------------------------------------------------------
 
 ## Participation
 
 To participate in-person, please register for the workshop through ICALP's [registration portal](https://conferences.au.dk/icalp2025/registration). To participate remotely over Zoom, please contact the organisers for further details.
 
----
+------------------------------------------------------------------------
 
 ## Speakers, Talks, and Slides
 
@@ -66,7 +65,7 @@ To participate in-person, please register for the workshop through ICALP's [regi
 
   The first such simple but interesting subcase are finite semigroups. While it is known that if a group of n-by-n matrices is finite, then it has size at most 2^n n!, for semigroups the best known bound is double exponential. We reduce this bound to a single exponential and obtain a PSPACE algorithm for deciding finiteness of a given matrix semigroup. Our main tool, which is applicable for any matrix semigroup, is the PTIME computation of an irreducible component decomposition. This can be viewed as a kind of extension of the decomposition of a graph into strongly-connected components.
 
-  [Slides: 🗎](/uploads/liar25/guttenberg-liar25.pdf)
+  [Slides: :page_facing_up:](/uploads/liar25/guttenberg-liar25.pdf)
   {{< /accordionItem >}} 
   
   {{< accordionItem title="Applications of O-Minimality to Linear Loops — Toghrul Karimov (MPI-SWS)" >}}
@@ -83,7 +82,7 @@ This is joint work with Yahia Idriss Benalioua and Pierre-Alain Reynier
   {{< accordionItem title="Algebraic tools for computing polynomial loop invariants — Fatemeh Mohammadi (KU Leuven)" >}}
   Loop invariants are properties of a loop program that hold before and after each iteration of the loop. They are often employed to verify programs and ensure that algorithms consistently produce correct results during execution. Consequently, the generation of invariants becomes a crucial task for loops. I specifically focus on polynomial loops, where both the loop conditions and assignments within the loop are expressed as polynomials. Although computing polynomial invariants for general loops is undecidable, efficient algorithms have been developed for certain classes of loops. For instance, when all assignments within a while loop involve linear polynomials, the loop becomes solvable. In this talk, I will discuss the more general case where the polynomials exhibit arbitrary degrees. Applying tools from algebraic geometry, I present two algorithms designed to generate all polynomial invariants for a while loop, up to a specified degree. These algorithms differ based on whether the initial values of the loop variables are given or treated as parameters. <br> <br> This talk is based on joint work with Erdenebayar Bayarmagnai and Rémi Prébet.
 
-  [Slides: 🗎](/uploads/liar25/mohammadi-liar25.pdf)
+  [Slides: :page_facing_up:](/uploads/liar25/mohammadi-liar25.pdf)
   {{< /accordionItem >}}
   
 
@@ -103,7 +102,7 @@ This work is in collaboration with Rida Ait El Manssour, Mahsa Shirmohammadi, an
 
   In this talk, I will describe a new one block quantifier algorithm which leverages this geometric perspective. This yields  new complexity results and practical performances which outperform the current state-of-the-art algorithms on a large family of examples.
 
-  [Slides: 🗎](/uploads/liar25/safeyeldin-liar25.pdf)
+  [Slides: :page_facing_up:](/uploads/liar25/safeyeldin-liar25.pdf)
   {{< /accordionItem >}}
   
 
@@ -113,7 +112,7 @@ This work is in collaboration with Rida Ait El Manssour, Mahsa Shirmohammadi, an
   As an illustration of how this connection can be exploited to use complexity results on order ideals, I'll revisit the results of Benedikt, Duff, Sharad, and Worrell [LICS 2017] on the complexity of the zeroness problem for general and invertible polynomial automata, using recent results obtained with Schütze [ICALP 2024].  As a second illustration, I will point to some open questions regarding the complexity of computing Gröbner bases.
   
   
-  [Slides: 🗎](/uploads/liar25/schmitz-liar25.pdf)
+  [Slides: :page_facing_up:](/uploads/liar25/schmitz-liar25.pdf)
   {{< /accordionItem >}}
 
 
@@ -127,49 +126,45 @@ This work is in collaboration with Rida Ait El Manssour, Mahsa Shirmohammadi, an
   Our results concern the decidability of existence and, in addition, the algorithmic generation of loops from invariants. We will discuss special classes of input polynomials: quadratic equations and conjunctions of pure binomial equalities. Finally, we will introduce a bit-bounded version of loop synthesis--where the objective is to find a simple linear loop with input entries of a bounded size.
 
   
-  [Slides: 🗎](/uploads/liar25/varonka-liar25.pdf)
+  [Slides: :page_facing_up:](/uploads/liar25/varonka-liar25.pdf)
   {{< /accordionItem >}}
   
   
   {{< /accordion >}}
 
-
----
+------------------------------------------------------------------------
 
 ## Schedule
 
 (All times are CEST/UTC+02:00)
 
-_08:30--09:00 Registration_
+*08:30--09:00 Registration*
 
-- 09:00--10:00 **Mohab Safey El Din** · Modern algorithms for one block quantifier elimination over the reals
-- 10:00--10:30 **Fatemeh Mohammadi** · Algebraic tools for computing polynomial loop invariants
+-   09:00--10:00 **Mohab Safey El Din** · Modern algorithms for one block quantifier elimination over the reals
+-   10:00--10:30 **Fatemeh Mohammadi** · Algebraic tools for computing polynomial loop invariants
 
-_10:30--11:00 Coffee Break_
+*10:30--11:00 Coffee Break*
 
-- 11:00--11:30 **Rida Ait El Manssour** · Algebraic invariants of rational linear loops
-- 11:30--12:00 **Mahsa Naraghi** · Algebraic Closure of Matrix Sets Recognized by 1-VASS
-- 12:00--12:30 **Roland Guttenberg** · Finite Rational Matrix Semigroups have at most Exponential Size
+-   11:00--11:30 **Rida Ait El Manssour** · Algebraic invariants of rational linear loops
+-   11:30--12:00 **Mahsa Naraghi** · Algebraic Closure of Matrix Sets Recognized by 1-VASS
+-   12:00--12:30 **Roland Guttenberg** · Finite Rational Matrix Semigroups have at most Exponential Size
 
-_12:30--14:00 Lunch_
+*12:30--14:00 Lunch*
 
-- 14:00--15:00 **Nathan Lhote** · Minimizing Cost Register Automata over a Field
-- 15:00--15:30 **Sylvain Schmitz** · Polynomial Ideals and Order Ideals
+-   14:00--15:00 **Nathan Lhote** · Minimizing Cost Register Automata over a Field
+-   15:00--15:30 **Sylvain Schmitz** · Polynomial Ideals and Order Ideals
 
-_15:30--16:00 Coffee Break_
+*15:30--16:00 Coffee Break*
 
-- 16:00--16:30 **Anton Varonka** · Rational Loop Synthesis
-- 16:30--17:00 **Ruiwen Dong** · S-unit equations in modules
-- 17:00--17:30 **Toghrul Karimov** · Applications of O-Minimality to Linear Loops
+-   16:00--16:30 **Anton Varonka** · Rational Loop Synthesis
+-   16:30--17:00 **Ruiwen Dong** · S-unit equations in modules
+-   17:00--17:30 **Toghrul Karimov** · Applications of O-Minimality to Linear Loops
 
-_Workshop Ends_
+*Workshop Ends*
 
----
+------------------------------------------------------------------------
 
 ## Organisers
 
-
-
-- [George Kenison](https://georgekenison.github.io/) (LJMU)
-- [Mahsa Shirmohammadi](https://www.irif.fr/~mahsa/) (CNRS, Paris)
-
+-   [George Kenison](https://georgekenison.github.io/) (LJMU)
+-   [Mahsa Shirmohammadi](https://www.irif.fr/~mahsa/) (CNRS, Paris)

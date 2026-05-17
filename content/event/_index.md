@@ -13,5 +13,6 @@ cascade:
   cardView: false
   cardViewScreenWidth: false
   showAuthor: true
+  enableEmoji: true
 ---
 
