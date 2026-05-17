@@ -1,9 +1,10 @@
 ---
-title: WORReLL
+title: Workshop On Reachability, Recurrences, and Loops (WORReLL)
 subtitle: Workshop On Reachability, Recurrences, and Loops
 summary: Workshop On Reachability, Recurrences, and Loops
 date: "2023-07-10"
-show_date: true
+showDate: true
+showSubtitle: true
 all_day: true
 layout: page
 
@@ -11,8 +12,6 @@ reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
 profile: false  # Show author profile?
 comments: false  # Show comments?
-
-event_name: Workshop On Reachability, Recurrences, and Loops
 
 location: Heinz Nixdorf MuseumsForum (HNF)
 address:
@@ -70,7 +69,8 @@ The one-day workshop will also celebrate the research contributions of Professor
 Coincidentally, the workshop is a few days prior to Ben's birthday.
 We plan to celebrate with a birthday dinner on Sunday 09th July (the evening before the workshop), so please take this into consideration for planning your travel to Paderborn.
 
-{{< figure src="jbw.jpg" width="310" height="310" caption="Professor James Worrell" >}}
+{{< figure src="jbw.jpg" alt="Professor James Worrell" caption="Professor James Worrell" class="w-1/4" >}}
+
 
 ---
 
