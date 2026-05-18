@@ -63,5 +63,5 @@ title = "Homepage"
   #   { youtube = "https://youtube.com/username" },
   #   { ko-fi = "https://ko-fi.com/username" },
 	#  { github = "https://github.com/georgekenison" },
-	{ cv = "uploads/CV.pdf" },
+	{ cv = "uploads/cv.pdf" },
   ]
