@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Games on Homepage</title>
-    <link>//localhost:1313/tags/games/</link>
-    <description>Recent content in Games on Homepage</description>
+    <title>Games on George Kenison</title>
+    <link>/tags/games/</link>
+    <description>Recent content in Games on George Kenison</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 George Kenison</copyright>
-    <lastBuildDate>Sun, 16 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/games/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/games/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Autobóz 2023</title>
-      <link>//localhost:1313/event/autoboz2023/</link>
+      <link>/event/autoboz2023/</link>
       <pubDate>Sun, 16 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/event/autoboz2023/</guid>
+      <guid>/event/autoboz2023/</guid>
       <description>Research camp on Logic, Automata, and Games</description>
       
     </item>

@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Linear Loops on Homepage</title>
-    <link>//localhost:1313/tags/linear-loops/</link>
-    <description>Recent content in Linear Loops on Homepage</description>
+    <title>Linear Loops on George Kenison</title>
+    <link>/tags/linear-loops/</link>
+    <description>Recent content in Linear Loops on George Kenison</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 George Kenison</copyright>
-    <lastBuildDate>Wed, 14 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/linear-loops/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 14 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="/tags/linear-loops/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Determination Problems for Orbit Closures and Matrix Groups</title>
-      <link>//localhost:1313/talks/2026poplrennes/</link>
+      <link>/talks/2026poplrennes/</link>
       <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/talks/2026poplrennes/</guid>
+      <guid>/talks/2026poplrennes/</guid>
       <description>Presentation slides for POPL 2026</description>
       
     </item>

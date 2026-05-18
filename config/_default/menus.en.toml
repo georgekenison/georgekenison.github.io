@@ -11,10 +11,10 @@
 # ordered by weight from lowest to highest.
 
 
-#[[main]]
-#    name = "Home"
-#    url = "/"
-#    weight = 1
+[[main]]
+  name = "Home"
+  url = "/"
+  weight = 1
 
 #[[main]]
 #  name = "Blog"
