@@ -2,7 +2,7 @@ languageCode = "en"
 languageName = "English"
 weight = 1
 
-title = "George Kenison"
+title = "Homepage"
 
 [params]
   displayName = "EN"
@@ -16,8 +16,8 @@ title = "George Kenison"
 [params.author]
   name = "George Kenison"
   image = "img/avatar.jpg"
-  headline = "Assistant Professor in Computer Science at Maynooth University"
-  # bio = "Assistant Professor in Computer Science"
+  headline = "Assistant Professor at Maynooth"
+  bio = "Assistant Professor in Computer Science at Maynooth University"
   links = [
   	{ email = "mailto:george.kenison@mu.ie" },
   #   { link = "https://link-to-some-website.com/" },
