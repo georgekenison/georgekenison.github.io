@@ -1,15 +1,8 @@
 ---
 title: "Publications and Preprints"
 layout: simple
-cascade:
-  showWordCount: false
-  showReadingTime: false
-  showSummary: true
-  showTableOfContents: false
-  showDate: false
-  showAuthor: true
-  
-  summary: Research papers, publications, and preprints
+description: "Research papers, publications, and preprints"
+summary: "Research papers, publications, and preprints"
 ---
 
 
