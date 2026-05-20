@@ -28,6 +28,8 @@ tags:
 
 ---
 
+{{< zenmode-enabled >}}
+
 
 
 ## Aim

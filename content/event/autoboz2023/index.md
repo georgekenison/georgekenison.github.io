@@ -41,6 +41,7 @@ links:
     url: https://autoboz.org/2023
 ---
 
+{{< zenmode-enabled >}}
 
 ### Autobóz
 Autobóz is a yearly week-long invitational research camp on Logic, Automata, and

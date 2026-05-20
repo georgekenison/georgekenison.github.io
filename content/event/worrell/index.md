@@ -44,6 +44,8 @@ links:
 ---
 
 {{< katex >}}
+{{< zenmode-enabled >}}
+
 
 
 ## Topic
