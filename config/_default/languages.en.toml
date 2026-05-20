@@ -26,7 +26,7 @@ title = "George Kenison"
   #   { blogger = "https://username.blogspot.com/" },
   #   { codepen = "https://codepen.io/username" },
 	{ arxiv = "https://arxiv.org/search/math?searchtype=author&query=Kenison%2C+G"},
-  # { dblp = "https://dblp.org/pid/267/5393"},
+        { dblp = "https://dblp.org/pid/267/5393"},
   #   { dev = "https://dev.to/username" },
   #   { discord = "https://discord.gg/invitecode" },
   #   { dribbble = "https://dribbble.com/username" },
