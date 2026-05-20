@@ -62,7 +62,7 @@ weight = 100
   identifier = "Email"
   pre = "email"
   url = "mailto:george.kenison@mu.ie"
-  weight = 2
+  weight = 200
 
 
 
