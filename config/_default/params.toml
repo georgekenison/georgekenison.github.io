@@ -61,6 +61,7 @@ enableCodeCopy = true
   showWordCount = false
   showSummary = true
   # sharingLinks = [ "linkedin", "twitter", "whatsapp", "pinterest", "reddit", "facebook", "email"]
+  showZenMode = true
 
 [list]
   showBreadcrumbs = false

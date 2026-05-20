@@ -11,8 +11,14 @@
 # ordered by weight from lowest to highest.
 
 
+# [[main]]
+#  name = "Home"
+#  url = "/"
+#  weight = 1
+
 [[main]]
-  name = "Home"
+  identifier = "Home"
+  pre = "house-regular-full"
   url = "/"
   weight = 1
 
@@ -50,6 +56,14 @@
 name = "CV"
 url = "/uploads/cv.pdf"
 weight = 100
+
+
+[[main]]
+  identifier = "Email"
+  pre = "email"
+  url = "mailto:george.kenison@mu.ie"
+  weight = 2
+
 
 
 # -- Footer Menu --

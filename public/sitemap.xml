@@ -3,215 +3,215 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>/tags/continued-fractions/</loc>
+    <loc>//localhost:1313/</loc>
     <lastmod>2026-05-08T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>/tags/decidability/</loc>
+    <loc>//localhost:1313/tags/continued-fractions/</loc>
     <lastmod>2026-05-08T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>/tags/decision-problems/</loc>
+    <loc>//localhost:1313/tags/decidability/</loc>
     <lastmod>2026-05-08T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>/talks/202605warsawsimons/</loc>
+    <loc>//localhost:1313/tags/decision-problems/</loc>
     <lastmod>2026-05-08T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>/</loc>
+    <loc>//localhost:1313/talks/202605warsawsimons/</loc>
     <lastmod>2026-05-08T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>/tags/holonomic-sequences/</loc>
+    <loc>//localhost:1313/tags/holonomic-sequences/</loc>
     <lastmod>2026-05-08T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>/tags/minimality-problem/</loc>
+    <loc>//localhost:1313/tags/minimality-problem/</loc>
     <lastmod>2026-05-08T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>/tags/p-finite-sequences/</loc>
+    <loc>//localhost:1313/tags/p-finite-sequences/</loc>
     <lastmod>2026-05-08T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>/tags/positivity-problem/</loc>
+    <loc>//localhost:1313/tags/positivity-problem/</loc>
     <lastmod>2026-05-08T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>/talks/</loc>
+    <loc>//localhost:1313/talks/</loc>
     <lastmod>2026-05-08T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>/tags/</loc>
+    <loc>//localhost:1313/tags/</loc>
     <lastmod>2026-05-08T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>/authors/</loc>
+    <loc>//localhost:1313/authors/</loc>
     <lastmod>2026-01-14T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>/tags/determination-problems/</loc>
+    <loc>//localhost:1313/tags/determination-problems/</loc>
     <lastmod>2026-01-14T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>/talks/2026poplrennes/</loc>
+    <loc>//localhost:1313/talks/2026poplrennes/</loc>
     <lastmod>2026-01-14T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>/authors/george/</loc>
+    <loc>//localhost:1313/authors/george/</loc>
     <lastmod>2026-01-14T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>/tags/linear-loops/</loc>
+    <loc>//localhost:1313/tags/linear-loops/</loc>
     <lastmod>2026-01-14T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>/tags/orbit-closures/</loc>
+    <loc>//localhost:1313/tags/orbit-closures/</loc>
     <lastmod>2026-01-14T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>/tags/algebraic-methods/</loc>
+    <loc>//localhost:1313/tags/algebraic-methods/</loc>
     <lastmod>2025-07-07T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>/tags/invariant-generation/</loc>
+    <loc>//localhost:1313/tags/invariant-generation/</loc>
     <lastmod>2025-07-07T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>/tags/invariant-verification/</loc>
+    <loc>//localhost:1313/tags/invariant-verification/</loc>
     <lastmod>2025-07-07T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>/tags/loop-invariants/</loc>
+    <loc>//localhost:1313/tags/loop-invariants/</loc>
     <lastmod>2025-07-07T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>/event/loopinvariants/</loc>
+    <loc>//localhost:1313/event/loopinvariants/</loc>
     <lastmod>2025-07-07T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>/tags/loops/</loc>
+    <loc>//localhost:1313/tags/loops/</loc>
     <lastmod>2025-07-07T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>/tags/workshop/</loc>
+    <loc>//localhost:1313/tags/workshop/</loc>
     <lastmod>2025-07-07T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>/event/</loc>
+    <loc>//localhost:1313/event/</loc>
     <lastmod>2025-07-07T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>/event/autoboz2023/</loc>
+    <loc>//localhost:1313/event/autoboz2023/</loc>
     <lastmod>2023-07-16T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>/tags/automata/</loc>
+    <loc>//localhost:1313/tags/automata/</loc>
     <lastmod>2023-07-16T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>/tags/games/</loc>
+    <loc>//localhost:1313/tags/games/</loc>
     <lastmod>2023-07-16T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>/tags/logic/</loc>
+    <loc>//localhost:1313/tags/logic/</loc>
     <lastmod>2023-07-16T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>/tags/research/</loc>
+    <loc>//localhost:1313/tags/research/</loc>
     <lastmod>2023-07-16T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>/tags/reachability/</loc>
+    <loc>//localhost:1313/tags/reachability/</loc>
     <lastmod>2023-07-10T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>/tags/recurrences/</loc>
+    <loc>//localhost:1313/tags/recurrences/</loc>
     <lastmod>2023-07-10T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>/event/worrell/</loc>
+    <loc>//localhost:1313/event/worrell/</loc>
     <lastmod>2023-07-10T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>/categories/</loc>
+    <loc>//localhost:1313/categories/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>/publications/</loc>
+    <loc>//localhost:1313/publications/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>/series/</loc>
+    <loc>//localhost:1313/series/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

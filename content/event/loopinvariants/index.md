@@ -3,7 +3,7 @@ title: "Loop Invariants and Algebraic Reasoning"
 summary: "Workshop On Loop Invariants and Algebraic Reasoning"
 date: 2025-07-07
 showDate: true
-layout: page
+layout: article
 enableEmoji: true
 
 
@@ -25,7 +25,10 @@ tags:
   - "Invariant Verification"
   - "Algebraic Methods"
   - "Workshop"
+
 ---
+
+
 
 ## Aim
 
