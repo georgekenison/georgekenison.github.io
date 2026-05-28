@@ -6,7 +6,7 @@ summary: "Research papers, publications, and preprints"
 ---
 
 
-## Peer-Reviewed papers in conference proceedings
+## Peer-reviewed papers in conference proceedings
 
  - **On Word Representations and Embeddings in Complex Matrices.** {{< lbadge text="arXiv" url="https://doi.org/10.48550/arXiv.2604.15386" >}}   (with Paul C. Bell, Reino Niskanen, Igor Potapov, and Pavel Semukhin). In: *Proceedings of the International Conference on Developments in Language Theory,* DLT 2026.
  
