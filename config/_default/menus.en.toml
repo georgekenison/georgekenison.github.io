@@ -58,11 +58,16 @@ url = "/uploads/cv.pdf"
 weight = 100
 
 
+#[[main]]
+#  identifier = "Email"
+#  pre = "email"
+#  url = "mailto:george.kenison@mu.ie"
+#  weight = 200
+
 [[main]]
-  identifier = "Email"
-  pre = "email"
-  url = "mailto:george.kenison@mu.ie"
-  weight = 200
+name = "Contact"
+pageRef = "contact"
+weight = 200
 
 
 

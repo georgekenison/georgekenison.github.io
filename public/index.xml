@@ -60,6 +60,16 @@
     </item>
     
     <item>
+      <title>Contact</title>
+      <link>//localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/contact/</guid>
+      <description>Address and contact details</description>
+      
+    </item>
+    
+    <item>
       <title>Publications and Preprints</title>
       <link>//localhost:1313/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
