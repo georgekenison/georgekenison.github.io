@@ -8,7 +8,7 @@ summary: "Research papers, publications, and preprints"
 
 ## Peer-reviewed papers in conference proceedings
 
- - **On Word Representations and Embeddings in Complex Matrices.** {{< lbadge text="arXiv" url="https://doi.org/10.48550/arXiv.2604.15386" >}}   (with Paul C. Bell, Reino Niskanen, Igor Potapov, and Pavel Semukhin). In: *Proceedings of the International Conference on Developments in Language Theory,* DLT 2026.
+ - **On Word Representations and Embeddings in Complex Matrices.** {{< lbadge text="DOI" url="https://doi.org/10.1007/978-3-032-28404-4_24" >}}   (with Paul C. Bell, Reino Niskanen, Igor Potapov, and Pavel Semukhin). In: *Proceedings of the International Conference on Developments in Language Theory,* DLT 2026.
  
  - **The Threshold Problem for Hypergeometric Sequences with Quadratic Parameters.** {{< lbadge text="DOI" url="https://doi.org/10.4230/LIPIcs.ICALP.2024.145" >}} In: *51st International Colloquium on Automata, Languages, and Programming,* ICALP 2024.
  
