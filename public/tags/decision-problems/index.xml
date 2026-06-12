@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Decision Problems on George Kenison</title>
-    <link>//localhost:1313/tags/decision-problems/</link>
+    <link>/tags/decision-problems/</link>
     <description>Recent content in Decision Problems on George Kenison</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 George Kenison</copyright>
-    <lastBuildDate>Fri, 08 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/decision-problems/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="/tags/decision-problems/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Decision Problems, Recurrence Sequences, and Continued Fractions</title>
-      <link>//localhost:1313/talks/202605warsawsimons/</link>
+      <link>/talks/202605warsawsimons/</link>
       <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/talks/202605warsawsimons/</guid>
+      <guid>/talks/202605warsawsimons/</guid>
       <description>Mini-course at the Simons Semester: Continued fractions, fractals, ergodic theory and dynamics held at the Institute of Mathematics of the Polish Academy of Sciences</description>
       
     </item>
     
     <item>
       <title>Determination Problems for Orbit Closures and Matrix Groups</title>
-      <link>//localhost:1313/talks/2026poplrennes/</link>
+      <link>/talks/2026poplrennes/</link>
       <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/talks/2026poplrennes/</guid>
+      <guid>/talks/2026poplrennes/</guid>
       <description>Presentation slides for POPL 2026</description>
       
     </item>
