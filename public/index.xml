@@ -2,79 +2,89 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>George Kenison</title>
-    <link>/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content on George Kenison</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 George Kenison</copyright>
-    <lastBuildDate>Fri, 08 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Positivity problems and equality tests</title>
+      <link>//localhost:1313/talks/2026warsawsamsa/</link>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/talks/2026warsawsamsa/</guid>
+      <description>Contributed talk at SAMSA 2026</description>
+      
+    </item>
     
     <item>
       <title>Decision Problems, Recurrence Sequences, and Continued Fractions</title>
-      <link>/talks/202605warsawsimons/</link>
+      <link>//localhost:1313/talks/202605warsawsimons/</link>
       <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
       
-      <guid>/talks/202605warsawsimons/</guid>
+      <guid>//localhost:1313/talks/202605warsawsimons/</guid>
       <description>Mini-course at the Simons Semester: Continued fractions, fractals, ergodic theory and dynamics held at the Institute of Mathematics of the Polish Academy of Sciences</description>
       
     </item>
     
     <item>
       <title>Determination Problems for Orbit Closures and Matrix Groups</title>
-      <link>/talks/2026poplrennes/</link>
+      <link>//localhost:1313/talks/2026poplrennes/</link>
       <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>/talks/2026poplrennes/</guid>
+      <guid>//localhost:1313/talks/2026poplrennes/</guid>
       <description>Presentation slides for POPL 2026</description>
       
     </item>
     
     <item>
       <title>Loop Invariants and Algebraic Reasoning</title>
-      <link>/event/loopinvariants/</link>
+      <link>//localhost:1313/event/loopinvariants/</link>
       <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
       
-      <guid>/event/loopinvariants/</guid>
+      <guid>//localhost:1313/event/loopinvariants/</guid>
       <description>Workshop On Loop Invariants and Algebraic Reasoning</description>
       
     </item>
     
     <item>
       <title>Autobóz 2023</title>
-      <link>/event/autoboz2023/</link>
+      <link>//localhost:1313/event/autoboz2023/</link>
       <pubDate>Sun, 16 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>/event/autoboz2023/</guid>
+      <guid>//localhost:1313/event/autoboz2023/</guid>
       <description>Research camp on Logic, Automata, and Games</description>
       
     </item>
     
     <item>
       <title>Workshop On Reachability, Recurrences, and Loops (WORReLL)</title>
-      <link>/event/worrell/</link>
+      <link>//localhost:1313/event/worrell/</link>
       <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>/event/worrell/</guid>
+      <guid>//localhost:1313/event/worrell/</guid>
       <description>Workshop On Reachability, Recurrences, and Loops</description>
       
     </item>
     
     <item>
       <title>Contact</title>
-      <link>/contact/</link>
+      <link>//localhost:1313/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/contact/</guid>
+      <guid>//localhost:1313/contact/</guid>
       <description>Address and contact details</description>
       
     </item>
     
     <item>
       <title>Publications and Preprints</title>
-      <link>/publications/</link>
+      <link>//localhost:1313/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/publications/</guid>
+      <guid>//localhost:1313/publications/</guid>
       <description>Research papers, publications, and preprints</description>
       
     </item>
