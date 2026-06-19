@@ -2,229 +2,229 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on George Kenison</title>
-    <link>//localhost:1313/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on George Kenison</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 George Kenison</copyright>
-    <lastBuildDate>Thu, 18 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Continued Fractions</title>
-      <link>//localhost:1313/tags/continued-fractions/</link>
+      <link>/tags/continued-fractions/</link>
       <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/continued-fractions/</guid>
+      <guid>/tags/continued-fractions/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Decidability</title>
-      <link>//localhost:1313/tags/decidability/</link>
+      <link>/tags/decidability/</link>
       <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/decidability/</guid>
+      <guid>/tags/decidability/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Decision Problems</title>
-      <link>//localhost:1313/tags/decision-problems/</link>
+      <link>/tags/decision-problems/</link>
       <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/decision-problems/</guid>
+      <guid>/tags/decision-problems/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Holonomic Sequences</title>
-      <link>//localhost:1313/tags/holonomic-sequences/</link>
+      <link>/tags/holonomic-sequences/</link>
       <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/holonomic-sequences/</guid>
+      <guid>/tags/holonomic-sequences/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Minimality Problem</title>
-      <link>//localhost:1313/tags/minimality-problem/</link>
+      <link>/tags/minimality-problem/</link>
       <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/minimality-problem/</guid>
+      <guid>/tags/minimality-problem/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>P-Finite Sequences</title>
-      <link>//localhost:1313/tags/p-finite-sequences/</link>
+      <link>/tags/p-finite-sequences/</link>
       <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/p-finite-sequences/</guid>
+      <guid>/tags/p-finite-sequences/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Positivity Problem</title>
-      <link>//localhost:1313/tags/positivity-problem/</link>
+      <link>/tags/positivity-problem/</link>
       <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/positivity-problem/</guid>
+      <guid>/tags/positivity-problem/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Determination Problems</title>
-      <link>//localhost:1313/tags/determination-problems/</link>
+      <link>/tags/determination-problems/</link>
       <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/determination-problems/</guid>
+      <guid>/tags/determination-problems/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Linear Loops</title>
-      <link>//localhost:1313/tags/linear-loops/</link>
+      <link>/tags/linear-loops/</link>
       <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/linear-loops/</guid>
+      <guid>/tags/linear-loops/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Orbit Closures</title>
-      <link>//localhost:1313/tags/orbit-closures/</link>
+      <link>/tags/orbit-closures/</link>
       <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/orbit-closures/</guid>
+      <guid>/tags/orbit-closures/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Algebraic Methods</title>
-      <link>//localhost:1313/tags/algebraic-methods/</link>
+      <link>/tags/algebraic-methods/</link>
       <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/algebraic-methods/</guid>
+      <guid>/tags/algebraic-methods/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Invariant Generation</title>
-      <link>//localhost:1313/tags/invariant-generation/</link>
+      <link>/tags/invariant-generation/</link>
       <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/invariant-generation/</guid>
+      <guid>/tags/invariant-generation/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Invariant Verification</title>
-      <link>//localhost:1313/tags/invariant-verification/</link>
+      <link>/tags/invariant-verification/</link>
       <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/invariant-verification/</guid>
+      <guid>/tags/invariant-verification/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Loop Invariants</title>
-      <link>//localhost:1313/tags/loop-invariants/</link>
+      <link>/tags/loop-invariants/</link>
       <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/loop-invariants/</guid>
+      <guid>/tags/loop-invariants/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Loops</title>
-      <link>//localhost:1313/tags/loops/</link>
+      <link>/tags/loops/</link>
       <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/loops/</guid>
+      <guid>/tags/loops/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Workshop</title>
-      <link>//localhost:1313/tags/workshop/</link>
+      <link>/tags/workshop/</link>
       <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/workshop/</guid>
+      <guid>/tags/workshop/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Automata</title>
-      <link>//localhost:1313/tags/automata/</link>
+      <link>/tags/automata/</link>
       <pubDate>Sun, 16 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/automata/</guid>
+      <guid>/tags/automata/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Games</title>
-      <link>//localhost:1313/tags/games/</link>
+      <link>/tags/games/</link>
       <pubDate>Sun, 16 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/games/</guid>
+      <guid>/tags/games/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Logic</title>
-      <link>//localhost:1313/tags/logic/</link>
+      <link>/tags/logic/</link>
       <pubDate>Sun, 16 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/logic/</guid>
+      <guid>/tags/logic/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Research</title>
-      <link>//localhost:1313/tags/research/</link>
+      <link>/tags/research/</link>
       <pubDate>Sun, 16 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/research/</guid>
+      <guid>/tags/research/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Reachability</title>
-      <link>//localhost:1313/tags/reachability/</link>
+      <link>/tags/reachability/</link>
       <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/reachability/</guid>
+      <guid>/tags/reachability/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Recurrences</title>
-      <link>//localhost:1313/tags/recurrences/</link>
+      <link>/tags/recurrences/</link>
       <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/recurrences/</guid>
+      <guid>/tags/recurrences/</guid>
       <description></description>
       
     </item>

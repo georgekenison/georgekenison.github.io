@@ -2,89 +2,89 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>George Kenison</title>
-    <link>//localhost:1313/</link>
+    <link>/</link>
     <description>Recent content on George Kenison</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 George Kenison</copyright>
-    <lastBuildDate>Thu, 18 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Positivity problems and equality tests</title>
-      <link>//localhost:1313/talks/2026warsawsamsa/</link>
+      <link>/talks/2026warsawsamsa/</link>
       <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/talks/2026warsawsamsa/</guid>
+      <guid>/talks/2026warsawsamsa/</guid>
       <description>Contributed talk at SAMSA 2026</description>
       
     </item>
     
     <item>
       <title>Decision Problems, Recurrence Sequences, and Continued Fractions</title>
-      <link>//localhost:1313/talks/202605warsawsimons/</link>
+      <link>/talks/202605warsawsimons/</link>
       <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/talks/202605warsawsimons/</guid>
+      <guid>/talks/202605warsawsimons/</guid>
       <description>Mini-course at the Simons Semester: Continued fractions, fractals, ergodic theory and dynamics held at the Institute of Mathematics of the Polish Academy of Sciences</description>
       
     </item>
     
     <item>
       <title>Determination Problems for Orbit Closures and Matrix Groups</title>
-      <link>//localhost:1313/talks/2026poplrennes/</link>
+      <link>/talks/2026poplrennes/</link>
       <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/talks/2026poplrennes/</guid>
+      <guid>/talks/2026poplrennes/</guid>
       <description>Presentation slides for POPL 2026</description>
       
     </item>
     
     <item>
       <title>Loop Invariants and Algebraic Reasoning</title>
-      <link>//localhost:1313/event/loopinvariants/</link>
+      <link>/event/loopinvariants/</link>
       <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/event/loopinvariants/</guid>
+      <guid>/event/loopinvariants/</guid>
       <description>Workshop On Loop Invariants and Algebraic Reasoning</description>
       
     </item>
     
     <item>
       <title>Autobóz 2023</title>
-      <link>//localhost:1313/event/autoboz2023/</link>
+      <link>/event/autoboz2023/</link>
       <pubDate>Sun, 16 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/event/autoboz2023/</guid>
+      <guid>/event/autoboz2023/</guid>
       <description>Research camp on Logic, Automata, and Games</description>
       
     </item>
     
     <item>
       <title>Workshop On Reachability, Recurrences, and Loops (WORReLL)</title>
-      <link>//localhost:1313/event/worrell/</link>
+      <link>/event/worrell/</link>
       <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/event/worrell/</guid>
+      <guid>/event/worrell/</guid>
       <description>Workshop On Reachability, Recurrences, and Loops</description>
       
     </item>
     
     <item>
       <title>Contact</title>
-      <link>//localhost:1313/contact/</link>
+      <link>/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/contact/</guid>
+      <guid>/contact/</guid>
       <description>Address and contact details</description>
       
     </item>
     
     <item>
       <title>Publications and Preprints</title>
-      <link>//localhost:1313/publications/</link>
+      <link>/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/publications/</guid>
+      <guid>/publications/</guid>
       <description>Research papers, publications, and preprints</description>
       
     </item>
