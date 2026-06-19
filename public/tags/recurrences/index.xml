@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recurrences on George Kenison</title>
-    <link>/tags/recurrences/</link>
+    <link>//localhost:1313/tags/recurrences/</link>
     <description>Recent content in Recurrences on George Kenison</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 George Kenison</copyright>
-    <lastBuildDate>Mon, 10 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/recurrences/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/recurrences/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Workshop On Reachability, Recurrences, and Loops (WORReLL)</title>
-      <link>/event/worrell/</link>
+      <link>//localhost:1313/event/worrell/</link>
       <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>/event/worrell/</guid>
+      <guid>//localhost:1313/event/worrell/</guid>
       <description>Workshop On Reachability, Recurrences, and Loops</description>
       
     </item>
